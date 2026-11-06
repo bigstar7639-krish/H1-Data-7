@@ -157,3 +157,6 @@ A: Tallinn
 Auto Quiz - Money 🧠
 Q: How many Hz does the video standard PAL support?
 A: 50
+Auto Quiz - Yoga 🧠
+Q: How many stars are there to collect in Super Mario 64?
+A: 120
