@@ -16,3 +16,6 @@ A: ALU
 Auto Quiz - Mumbai 🧠
 Q: How many studio albums have the heavy metal band, &#039;Metallica&#039; released in the period between 1983 and 2016?
 A: 10
+Auto Quiz - London 🧠
+Q: Which of the following is NOT a computer science algorithm?
+A: Float Sort
