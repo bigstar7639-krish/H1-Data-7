@@ -73,3 +73,6 @@ A: BB-8
 Auto Quiz - Hope 🧠
 Q: Which one of the following is not made by Ford?
 A: Camry
+Auto Quiz - Faith 🧠
+Q: Which of the following commercial vehicles from Grand Theft Auto IV did NOT reappear in Grand Theft Auto V?
+A: Steed
