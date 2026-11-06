@@ -193,3 +193,6 @@ A: Venice
 Auto Quiz - Marriage 🧠
 Q: In the original DOOM (1993) which of the following is NOT a cheat code?
 A: IDCLIP
+Auto Quiz - Friendship 🧠
+Q: What does CPR, the emergency procedure to assist someone who has suffered cardiac arrest, stand for?
+A: Cardiopulmonary resuscitation
