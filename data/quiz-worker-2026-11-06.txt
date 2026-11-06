@@ -91,3 +91,6 @@ A: The Ancient One
 Auto Quiz - Cat 🧠
 Q: Who is the main protagonist in the game Life is Strange: Before The Storm?
 A: Chloe Price 
+Auto Quiz - Dog 🧠
+Q: What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?
+A: 1502
