@@ -58,3 +58,6 @@ A: 1 in 649,740
 Auto Quiz - Happiness 🧠
 Q: Billy Herrington is from which US state?
 A: New York
+Auto Quiz - Smile 🧠
+Q: How much money did the 2019 Marvel movie &quot;Avengers: Endgame&quot; gross for it&#039;s record-breaking worldwide opening weekend?
+A: 1.2 billion USD
