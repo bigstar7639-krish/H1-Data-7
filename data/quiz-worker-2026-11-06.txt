@@ -1,3 +1,6 @@
 Auto Quiz - Karma 🧠
 Q: Which one of these countries borders with Poland?
 A: Lithuania
+Auto Quiz - Village 🧠
+Q: In Greek Mythology, who was the daughter of King Minos?
+A: Ariadne
