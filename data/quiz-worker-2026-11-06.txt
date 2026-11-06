@@ -10,3 +10,6 @@ A: A time piece
 Auto Quiz - Chennai 🧠
 Q: African-American performer Sammy Davis Jr. was known for losing which part of his body in a car accident?
 A: Left Eye
+Auto Quiz - Madurai 🧠
+Q: Which of the following computer components can be built using only NAND gates?
+A: ALU
