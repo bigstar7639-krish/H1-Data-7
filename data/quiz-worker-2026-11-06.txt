@@ -25,3 +25,6 @@ A: Three
 Auto Quiz - Tokyo 🧠
 Q: When Christopher Columbus sailed to America, what was the first region he arrived in?
 A: The Bahamas Archipelago
+Auto Quiz - New York 🧠
+Q: In the game &quot;Terraria&quot;, which of these bosses are pre-hardmode bosses?
+A: Eye of Cthulhu
