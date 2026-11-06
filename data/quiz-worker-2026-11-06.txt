@@ -43,3 +43,6 @@ A: Uncle Eli
 Auto Quiz - Psychology 🧠
 Q: Which one of the following is not made by Ford?
 A: Camry
+Auto Quiz - Philosophy 🧠
+Q: Which Van Gogh painting depicts the view from his asylum in Saint-R&eacute;my-de-Provence in southern France?
+A: The Starry Night
