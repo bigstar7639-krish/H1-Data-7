@@ -121,3 +121,6 @@ A: Electroman Adventures
 Auto Quiz - Flower 🧠
 Q: What is the scientific name for the Bald Eagle?
 A: Haliaeetus Leucocephalus 
+Auto Quiz - Sea 🧠
+Q: Which of the following games has the most playable characters?
+A: Timesplitters: Future Perfect
