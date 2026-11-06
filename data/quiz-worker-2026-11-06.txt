@@ -190,3 +190,6 @@ A: Devil May Cry 3: Dante&#039;s Awakening
 Auto Quiz - Festival 🧠
 Q: La Fenice opera house is in which Italian city?
 A: Venice
+Auto Quiz - Marriage 🧠
+Q: In the original DOOM (1993) which of the following is NOT a cheat code?
+A: IDCLIP
