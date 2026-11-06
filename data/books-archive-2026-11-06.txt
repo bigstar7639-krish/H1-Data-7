@@ -38,3 +38,4 @@ Economics - isbn_0333999320 - The economics of e-commerce and networking decisio
 Economics - economicsofwagep0000unse - economics of wage and price controls
 Politics - internationalpol0000unse_r7c8 - International Politics in the Atomic Age
 Politics - liberaltempering0000eric - the liberal temper in greek politics
+Law - bwb_S0-EGI-946 - AMERICAN LAW REPORTS ANNOTATED second series
