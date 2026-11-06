@@ -151,3 +151,6 @@ A: Grand Theft Auto: San Andreas
 Auto Quiz - Student 🧠
 Q: What was the character Kirby originally going to be named?
 A: Popopo
+Auto Quiz - Business 🧠
+Q: What is the capital of Estonia?
+A: Tallinn
