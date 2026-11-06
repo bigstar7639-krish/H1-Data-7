@@ -166,3 +166,6 @@ A: Torquay
 Auto Quiz - Fitness 🧠
 Q: In which country is located the municipality of Arteijo?
 A: Spain
+Auto Quiz - Diet 🧠
+Q: In a game of snooker, what colour ball is worth 3 points?
+A: Green
