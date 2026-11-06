@@ -4,3 +4,6 @@ A: Lithuania
 Auto Quiz - Village 🧠
 Q: In Greek Mythology, who was the daughter of King Minos?
 A: Ariadne
+Auto Quiz - City 🧠
+Q: In &quot;A Hat in Time&quot;, what must Hat Kid collect to finish a level
+A: A time piece
