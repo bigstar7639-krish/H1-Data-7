@@ -154,3 +154,6 @@ A: Popopo
 Auto Quiz - Business 🧠
 Q: What is the capital of Estonia?
 A: Tallinn
+Auto Quiz - Money 🧠
+Q: How many Hz does the video standard PAL support?
+A: 50
