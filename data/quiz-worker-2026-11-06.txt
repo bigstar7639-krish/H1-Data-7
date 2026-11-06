@@ -19,3 +19,6 @@ A: 10
 Auto Quiz - London 🧠
 Q: Which of the following is NOT a computer science algorithm?
 A: Float Sort
+Auto Quiz - Paris 🧠
+Q: In a standard Gregorian calendar, how many months begin with the letter &#039;J&#039;?
+A: Three
