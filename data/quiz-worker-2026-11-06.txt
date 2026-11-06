@@ -52,3 +52,6 @@ A: New Zealand
 Auto Quiz - Politics 🧠
 Q: Which team was the 2014-2015 NBA Champions?
 A: Golden State Warriors
+Auto Quiz - Law 🧠
+Q: What are the chances of being dealt a Royal Flush within Poker/Video Poker?
+A: 1 in 649,740
