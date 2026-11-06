@@ -169,3 +169,6 @@ A: Spain
 Auto Quiz - Diet 🧠
 Q: In a game of snooker, what colour ball is worth 3 points?
 A: Green
+Auto Quiz - Sleep 🧠
+Q: What was the pen name of novelist, Mary Ann Evans?
+A: George Eliot
