@@ -142,3 +142,6 @@ A: Part 7: Steel Ball Run
 Auto Quiz - Animal 🧠
 Q: In the SHMUP series, &quot;Darius&quot;, what is the name of the antagonist faction you fight against?
 A: Belsar
+Auto Quiz - Baby 🧠
+Q: What sport is being played in the Anime Eyeshield 21?
+A: American Football
