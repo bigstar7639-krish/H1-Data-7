@@ -136,3 +136,6 @@ A: Chinese Taipei
 Auto Quiz - Sun 🧠
 Q: In which Shakespearean play will you find the suicide of Ophelia?
 A: Hamlet
+Auto Quiz - Bird 🧠
+Q: Which part from the JoJo&#039;s Bizarre Adventure manga is about a horse race across America?
+A: Part 7: Steel Ball Run
