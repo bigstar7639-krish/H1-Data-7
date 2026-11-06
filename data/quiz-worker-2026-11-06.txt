@@ -55,3 +55,6 @@ A: Golden State Warriors
 Auto Quiz - Law 🧠
 Q: What are the chances of being dealt a Royal Flush within Poker/Video Poker?
 A: 1 in 649,740
+Auto Quiz - Happiness 🧠
+Q: Billy Herrington is from which US state?
+A: New York
