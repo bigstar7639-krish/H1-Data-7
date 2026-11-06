@@ -175,3 +175,6 @@ A: George Eliot
 Auto Quiz - Beauty 🧠
 Q: In &quot;Overwatch&quot;, how much health does Roadhog&#039;s &quot;Take a Breather&quot; ability recover?
 A: 300
+Auto Quiz - Game 🧠
+Q: What is the fastest animal?
+A: Peregrine Falcon
