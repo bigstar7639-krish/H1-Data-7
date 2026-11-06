@@ -22,3 +22,6 @@ A: Float Sort
 Auto Quiz - Paris 🧠
 Q: In a standard Gregorian calendar, how many months begin with the letter &#039;J&#039;?
 A: Three
+Auto Quiz - Tokyo 🧠
+Q: When Christopher Columbus sailed to America, what was the first region he arrived in?
+A: The Bahamas Archipelago
