@@ -145,3 +145,6 @@ A: Belsar
 Auto Quiz - Baby 🧠
 Q: What sport is being played in the Anime Eyeshield 21?
 A: American Football
+Auto Quiz - Teacher 🧠
+Q: What video game sparked controversy because of its hidden &quot;Hot Coffee&quot; minigame?
+A: Grand Theft Auto: San Andreas
