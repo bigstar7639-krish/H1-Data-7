@@ -97,3 +97,6 @@ A: 1502
 Auto Quiz - Food 🧠
 Q: Which of the following is NOT one of Aesop&#039;s fables?
 A: The Fox and the Hound
+Auto Quiz - Cricket 🧠
+Q: Which of the following plastic is commonly used for window frames, gutters and drain pipes?
+A: Polyvinylchloride (PVC) 
