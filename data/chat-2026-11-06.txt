@@ -1,1 +1,2 @@
-Talk 44 - Festival pathi pesalama? Ne enna nenaikura? Sollu! Aira kekkuren! 💬
+Coding Q 45 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
