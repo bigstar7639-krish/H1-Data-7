@@ -1,2 +1,2 @@
-Coding Q 45 - JavaScript la function enna?
-Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Joke 46
+Teacher: Yen late? Student: Road la board - School Ahead! 😂
