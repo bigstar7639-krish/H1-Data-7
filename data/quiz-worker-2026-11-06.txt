@@ -94,3 +94,6 @@ A: Chloe Price
 Auto Quiz - Dog 🧠
 Q: What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?
 A: 1502
+Auto Quiz - Food 🧠
+Q: Which of the following is NOT one of Aesop&#039;s fables?
+A: The Fox and the Hound
