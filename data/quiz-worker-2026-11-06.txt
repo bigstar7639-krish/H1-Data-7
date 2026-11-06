@@ -139,3 +139,6 @@ A: Hamlet
 Auto Quiz - Bird 🧠
 Q: Which part from the JoJo&#039;s Bizarre Adventure manga is about a horse race across America?
 A: Part 7: Steel Ball Run
+Auto Quiz - Animal 🧠
+Q: In the SHMUP series, &quot;Darius&quot;, what is the name of the antagonist faction you fight against?
+A: Belsar
