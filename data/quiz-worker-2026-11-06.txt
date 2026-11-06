@@ -163,3 +163,6 @@ A: 120
 Auto Quiz - Meditation 🧠
 Q: In which British seaside town was the BBC sitcom &quot;Fawlty Towers&quot; set?
 A: Torquay
+Auto Quiz - Fitness 🧠
+Q: In which country is located the municipality of Arteijo?
+A: Spain
