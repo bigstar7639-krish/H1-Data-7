@@ -178,3 +178,6 @@ A: 300
 Auto Quiz - Game 🧠
 Q: What is the fastest animal?
 A: Peregrine Falcon
+Auto Quiz - Football 🧠
+Q: What year did the New Orleans Saints win the Super Bowl?
+A: 2010
