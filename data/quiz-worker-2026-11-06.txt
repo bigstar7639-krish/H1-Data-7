@@ -118,3 +118,6 @@ A: 1950
 Auto Quiz - Temple 🧠
 Q: In Geometry Dash, what is level 13?
 A: Electroman Adventures
+Auto Quiz - Flower 🧠
+Q: What is the scientific name for the Bald Eagle?
+A: Haliaeetus Leucocephalus 
