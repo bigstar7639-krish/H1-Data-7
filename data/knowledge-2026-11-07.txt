@@ -596,3 +596,6 @@ A: 10 - Entertainment: Board Games
 Knowledge Quiz 🧠
 Q: In Dead by Daylight, which killer perk applies the mangled effect?
 A: Sloppy Butcher - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which Shakespeare play features the stage direction &quot;Enter a messenger, with two heads and a hand&quot;?
+A: Titus Andronicus - Entertainment: Musicals &amp; Theatres
