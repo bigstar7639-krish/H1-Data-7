@@ -1290,3 +1290,6 @@ A: Parasite Eve - Entertainment: Video Games
 Knowledge Quiz
 Q: In board games, an additional or ammended rule that applies to a certain group or place is informally known as a "what" rule?
 A: House - Entertainment: Board Games
+Knowledge Quiz
+Q: Which small country is located between the borders of France and Spain?
+A: Andorra - Geography
