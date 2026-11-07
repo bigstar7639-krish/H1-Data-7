@@ -1792,3 +1792,4 @@ Recipe 2710 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 World Story 2711
 Oru madurai la oru raja irunthan! Daily book padichan pannan! Oru naal book kedaichuchu! Life maariduchu!
 Q 2712 - Nature pathi oru story kekkura?
+Recipe 2713 - Cake - Maida + Sugar + Egg + 30 min!
