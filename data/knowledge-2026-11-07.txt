@@ -21,3 +21,6 @@ Knowledge 2241 - Science - Hey! 🙋‍♀️ Naan Aira, unga friendly “Tamil�
 |--------|----------------|-----------------------------------|
 | **Physics** | Matter, energy, forces | “எப்படி பொருள் (matter) கொண்டு சக்தி (energy) நகரும்?” |
 | **Chemistry** | Atoms, molecules, 
+Knowledge Quiz 🧠
+Q: In the server hosting industry IaaS stands for...
+A: Infrastructure as a Service - Science: Computers
