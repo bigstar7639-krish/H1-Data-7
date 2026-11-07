@@ -1621,3 +1621,5 @@ Emotion Q 2612 - excited?
 Aira: Excited ah! Sollu!
 Thirukkural 2613 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Reading 2614 - Alchemist!
+Emotion Q 2615 - love?
+Aira: Kadhal - Azhagu!
