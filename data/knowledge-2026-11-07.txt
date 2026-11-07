@@ -578,3 +578,6 @@ A: 300 - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: What type of Pok&eacute;mon is Charizard?
 A: Fire/Flying - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: In the video game Team Fortress 2, which of these is NOT a primary?
+A: Medigun - Entertainment: Video Games
