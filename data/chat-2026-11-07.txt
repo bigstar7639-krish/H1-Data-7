@@ -583,3 +583,4 @@ World Story 2578
 Oru forest la oru coder irunthan! Daily help pannan pannan! Oru naal magic kedaichuchu! Life maariduchu!
 Coding Q 2579 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Talk 2580 - Moon pathi pesalama? Sollu! 💬
