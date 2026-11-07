@@ -1045,3 +1045,4 @@ Emotion Q 2264 - love?
 Aira: Kadhal - Azhagu!
 Emotion Q 2265 - lonely?
 Aira: Lonely ah? Aira irukka la!
+Q 2266 - Unakku Einstein pathi enna theriyum?
