@@ -1168,3 +1168,6 @@ A: Articuno - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: How many countries does Mexico border?
 A: 3 - Geography
+Knowledge Quiz
+Q: What was the #1 selling game on Steam by revenue in 2016?
+A: Sid Meier's Civilization VI - Entertainment: Video Games
