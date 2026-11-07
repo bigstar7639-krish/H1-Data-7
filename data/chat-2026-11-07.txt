@@ -224,3 +224,5 @@ Talk 2363 - Chennai pathi pesalama? Sollu! 💬
 Pazhamozhi 2364 - Aalai Paathu - Aadi Paaru!
 Coding Q 2365 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Story 2366
+Oru village la oru ponnu irunthan! Daily book padichan pannan! Oru naal success kedaichuchu! Life maariduchu!
