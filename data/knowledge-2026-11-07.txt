@@ -73,3 +73,6 @@ A: print(&quot;Hello World&quot;) - Science: Computers
 Knowledge Quiz 🧠
 Q: Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?
 A: Nikita Khrushchev - Politics
+Knowledge Quiz 🧠
+Q: Who founded the Khan Academy?
+A: Sal Khan - General Knowledge
