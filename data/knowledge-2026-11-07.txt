@@ -367,3 +367,6 @@ A: Cyprus - Geography
 Knowledge Quiz 🧠
 Q: To what political party did Abraham Lincoln belong when elected POTUS?
 A: Republican - History
+Knowledge Quiz 🧠
+Q: What is the symbol for Displacement?
+A: &Delta;r - Science: Mathematics
