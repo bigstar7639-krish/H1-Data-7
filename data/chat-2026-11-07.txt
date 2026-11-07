@@ -1394,3 +1394,5 @@ Talk 2489 - Happy pathi pesalama? Sollu!
 Movie 2490 - Leo - Vijay - Action!
 Health 2491 - Health Tip: Daily 8 glass water kudinga!
 Q 2492 - Unakku Internet pathi enna theriyum?
+Joke 2493
+Teacher: Yen late? Student: School Ahead board!
