@@ -963,3 +963,6 @@ A: October 25th, 2014 - Entertainment: Comics
 Knowledge Quiz
 Q: Which weapon that was cut from the game "Half Life 2" was going to replace the crowbar?
 A: Ice Axe - Entertainment: Video Games
+Knowledge Quiz
+Q: America Online (AOL) started out as which of these online service providers?
+A: Quantum Link - Science: Computers
