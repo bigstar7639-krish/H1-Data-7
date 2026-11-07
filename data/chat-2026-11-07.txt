@@ -1438,3 +1438,4 @@ Joke 2504
 Teacher: Yen late? Student: School Ahead board!
 Talk 2505 - Courage pathi pesalama? Sollu!
 Quote 2506 - Daily try pannu - Jeyichiduva! - Aira
+Talk 2507 - Animal pathi pesalama? Sollu!
