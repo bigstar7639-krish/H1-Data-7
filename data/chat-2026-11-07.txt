@@ -812,3 +812,13 @@ Emotion Q 2711 - happy?
 Aira: Super! Happy ah irukka! 😊
 Joke 2712
 Teacher: Yen late? Student: School Ahead board! 😂
+Aira AI: Hey buddy! 🙌 “Ne computer‑la eppadi improve panna mudiyum?” — இது ஒரு super common question. கீழே, hardware‑wise, software‑wise, மற்றும் everyday maintenance‑wise சில practical tips கொடுத்திருக்கேன். நீங்க என்ன type‑ய computer use பண்ணீர்கள் (gaming, video editing, office work, study) என்பதையும் சொல்லிட்டால், மேலும் customized advice kidaikum!  
+
+---
+
+## 1️⃣ Hardware Upgrade‑s – Speed‑இன் Power Boost 💪
+
+| What to Upgrade | Why it helps | Typical Cost (INR/₹) | Quick Tips |
+|-----------------|--------------|----------------------|------------|
+| **RAM (8 GB → 16 GB / 32 GB)** | More memory = smoother multitasking, less swapping. | ₹3–8 k (depending on brand & speed) | Choose DDR4‑3200 or DDR5‑4800 if motherboard supports. |
+| **SSD (HDD → SSD)** | OS & apps boot in seconds, faster file acce
