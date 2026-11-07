@@ -987,3 +987,6 @@ A: Being run over by a truck - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What was David Bowie's real surname?
 A: Jones - Entertainment: Music
+Knowledge Quiz
+Q: In the hexadecimal system, what number comes after 9?
+A: The Letter A - Science: Mathematics
