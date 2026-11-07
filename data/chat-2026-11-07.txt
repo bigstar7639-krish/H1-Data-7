@@ -1317,3 +1317,4 @@ Vocab 2431 - Love = Kadhal
 Health 2432 - Yoga Tip: Daily 5 min deep breath edu!
 Recipe 2433 - Snacks - Potato + Masala - Crispy!
 Recipe 2434 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Quote 2435 - Daily try pannu - Jeyichiduva! - Aira
