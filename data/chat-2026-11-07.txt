@@ -1544,3 +1544,4 @@ Economics என்பது **scarcity** (மீதமுள்ள வளங்
 | **Opportunity Cost** | ஒரு தேர்வு செய்யும் போது விடும் “அடுத்த நல்லது”. Example: பசிலில் ஒரு மணி நே
 Talk 2563 - Space pathi pesalama? Sollu!
 Talk 2564 - Coding pathi pesalama? Sollu!
+Q 2565 - Faith pathi oru secret sollatta?
