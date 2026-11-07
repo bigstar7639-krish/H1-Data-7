@@ -100,3 +100,6 @@ A: Microsoft - Science: Computers
 Auto Quiz - Marriage 🧠
 Q: In the English language, what is the name of the "&" character?
 A: Ampersand - General Knowledge
+Auto Quiz - Friendship 🧠
+Q: Which video game company developed the 2019 game Rage 2?
+A: Avalanche Studios - Entertainment: Video Games
