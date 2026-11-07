@@ -1251,3 +1251,6 @@ A: 4/4 - Entertainment: Music
 Knowledge Quiz
 Q: Which day in "Papers, Please" does the man in red appear?
 A: Day 23 - Entertainment: Video Games
+Knowledge Quiz
+Q: When was the compact disc player first released?
+A: 1982 - Science: Gadgets
