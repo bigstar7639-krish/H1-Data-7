@@ -1651,3 +1651,5 @@ Knowledge 2636 - AI - AI - Data paathu - Pattern!
 Talk 2637 - APJ Abdul Kalam pathi pesalama? Sollu!
 Reading 2638 - Harry Potter!
 Quote 2639 - Daily try pannu - Jeyichiduva! - Aira
+Emotion Q 2640 - happy?
+Aira: Super! Happy ah irukka!
