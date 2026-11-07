@@ -474,3 +474,6 @@ A: JYP - Entertainment: Music
 Knowledge Quiz 🧠
 Q: What was the first Call of Duty game to include the Zombies gamemode?
 A: Call of Duty: World at War - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which iconic character is featured in movies such as &quot;The Enforcer&quot;, &quot;Sudden Impact&quot;, and &quot;The Dead Pool&quot;?
+A: Dirty Harry - Entertainment: Film
