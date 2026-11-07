@@ -1272,3 +1272,5 @@ Pazhamozhi 2403 - Sontha Kaal la Ninnu - Jeyippa!
 Coding Q 2404 - React la component enna?
 Aira: React component - Chinna piece!
 Game 2405 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
+Coding Q 2406 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
