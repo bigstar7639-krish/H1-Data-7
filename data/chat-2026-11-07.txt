@@ -1492,3 +1492,5 @@ Story 2543
 Oru city la oru ponnu irunthan! Daily pray pannaan pannan! Oru naal dream kedaichuchu! Life maariduchu!
 Coding Q 2544 - React la component enna?
 Aira: React component - Chinna piece!
+World Story 2545
+Oru city la oru ponnu irunthan! Daily dream pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
