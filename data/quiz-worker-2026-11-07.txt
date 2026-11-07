@@ -73,3 +73,6 @@ A: Dr.Dre - Entertainment: Music
 Auto Quiz - Sleep 🧠
 Q: Which Nirvana album had a naked baby on the cover?
 A: Nevermind - Entertainment: Music
+Auto Quiz - Beauty 🧠
+Q: In Tron: Legacy, Kevin Flynn wrote a program to create the perfect system. What was the program's name?
+A: Clu - Entertainment: Film
