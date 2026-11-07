@@ -1438,3 +1438,6 @@ A: IMKO-1 - Science: Computers
 Knowledge Quiz
 Q: Which celebrity announced his presidency in 2015?
 A: Kanye West - Celebrities
+Knowledge Quiz
+Q: What is the smallest country in the world?
+A: Vatican City - Geography
