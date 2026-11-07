@@ -1210,3 +1210,6 @@ A: Lava Axe - Entertainment: Board Games
 Knowledge Quiz
 Q: Which two men are credited with independently discovering differential calculus? 
 A: Newton and Leibnitz - Science: Mathematics
+Knowledge Quiz
+Q: How many chromosomes are in your body cells?
+A: 23 - Science & Nature
