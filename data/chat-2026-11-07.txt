@@ -794,3 +794,5 @@ Joke 2699
 Why bike sad? Petrol illa!
 Talk 2700 - DNA pathi pesalama? Sollu! 💬
 Movie 2701 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
+Coding Q 2702 - React la component enna?
+Aira: React component - Chinna piece!
