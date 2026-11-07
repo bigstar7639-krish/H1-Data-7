@@ -49,3 +49,6 @@ A: Fönster - General Knowledge
 Auto Quiz - Teacher 🧠
 Q: Which famous book is sub-titled 'The Modern Prometheus'?
 A: Frankenstein - Entertainment: Books
+Auto Quiz - Student 🧠
+Q: When was Nintendo founded?
+A: September 23rd, 1889 - General Knowledge
