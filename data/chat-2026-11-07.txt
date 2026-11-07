@@ -1859,3 +1859,4 @@ Coding Q 2753 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Health 2754 - Health Tip: Daily 8 glass water kudinga!
 Reading 2755 - Ramayana!
+Vocab 2756 - Friend = Nanban
