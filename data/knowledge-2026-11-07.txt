@@ -1395,3 +1395,6 @@ A: 4/4 - Entertainment: Music
 Knowledge Quiz
 Q: In networking, what does OSPF stand for?
 A: Open Shortest Path First - Science: Computers
+Knowledge Quiz
+Q: In which game did the character "Mario" make his first appearance?
+A: Donkey Kong - Entertainment: Video Games
