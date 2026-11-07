@@ -1281,3 +1281,6 @@ A: DD-445 - History
 Knowledge Quiz
 Q: What is the name of the 4-armed Chaos Witch from the 2016 video game "Battleborn"?
 A: Orendi - Entertainment: Video Games
+Knowledge Quiz
+Q: In the game Pokémon Conquest, how many kingdoms make up the region of Ransei?
+A: 17 - Entertainment: Video Games
