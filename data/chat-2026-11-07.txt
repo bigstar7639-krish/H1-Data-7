@@ -895,3 +895,5 @@ World Story 2761
 Oru chinna london la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Pazhamozhi 2762 - Porumai - Perumai Tharum!
 Thirukkural 2763 - Kattrathu - Kai Mann Alavu! - Thirukkural
+Coding Q 2764 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
