@@ -834,3 +834,6 @@ A: The Dentist - Entertainment: Video Games
 Knowledge Quiz
 Q: The biggest distinction between a eukaryotic cell and a prokaryotic cell is:
 A: The presence or absence of a nucleus - Science & Nature
+Knowledge Quiz
+Q: In which ocean is the Réunion island?
+A: Indian Ocean - Geography
