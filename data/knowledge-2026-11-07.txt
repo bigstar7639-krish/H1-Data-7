@@ -969,3 +969,6 @@ A: Quantum Link - Science: Computers
 Knowledge Quiz
 Q: What is the first track on the Dave Matthews Band album "Before These Crowded Streets"?
 A: Pantala Naga Pampa - Entertainment: Music
+Knowledge Quiz
+Q: Which country, not including Japan, has the most people of Japanese descent?
+A: Brazil - General Knowledge
