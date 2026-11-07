@@ -1435,3 +1435,6 @@ A: Mario's Game Gallery - Entertainment: Video Games
 Knowledge Quiz
 Q: What was the name of the first Bulgarian personal computer?
 A: IMKO-1 - Science: Computers
+Knowledge Quiz
+Q: Which celebrity announced his presidency in 2015?
+A: Kanye West - Celebrities
