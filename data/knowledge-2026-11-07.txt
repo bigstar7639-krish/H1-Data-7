@@ -539,3 +539,6 @@ A: Volga - Geography
 Knowledge Quiz 🧠
 Q: Blinky, Pinky, Inky and Clyde are characters from which classic video game?
 A: Pac-Man - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: On which Beatles album would you find the song &#039;Eleanor Rigby&#039;?
+A: Revolver - Entertainment: Music
