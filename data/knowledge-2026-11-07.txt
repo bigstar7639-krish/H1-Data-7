@@ -936,3 +936,6 @@ A: Shaquille O'Neal - Sports
 Knowledge Quiz
 Q: What are the base station trackers used for the HTC Vive called?
 A: Lighthouse - Science: Gadgets
+Knowledge Quiz
+Q: Which of these did mathematician Leonhard Euler NOT develop?
+A: An improvement to the Fast Fourier Transform - Science: Mathematics
