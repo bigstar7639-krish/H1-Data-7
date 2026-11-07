@@ -39,3 +39,4 @@ Student - effectofgraderet0000nanc - effect of grade retention on student achiev
 Business - bwb_S0-APP-007 - CORPORATIONS AND OTHER BUSINESS ASSOCIATIONS
 Business - bwb_S0-BGP-824 - Introduction to Business
 Money - bwb_W9-CTJ-334 - Making Money with mutual funds
+Money - economicsofmoney0000unse_d8x6 - The Economics of Money
