@@ -1023,3 +1023,6 @@ Knowledge 2383 - Hope - Hope pathi sollu - Nalla question! Daily try pannu - Jey
 Knowledge Quiz
 Q: What year was the Mona Lisa finished?
 A: 1504 - Art
+Knowledge Quiz
+Q: According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:
+A: A' + B' - Science: Computers
