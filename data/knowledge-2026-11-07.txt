@@ -1144,3 +1144,6 @@ A: Richard D. James - Entertainment: Music
 Knowledge Quiz
 Q: A classic 1976 song by Blue Oyster Cult features the advice “Don’t Fear The” what?
 A: Reaper - Entertainment: Music
+Knowledge Quiz
+Q: What does the computer software acronym JVM stand for?
+A: Java Virtual Machine - Science: Computers
