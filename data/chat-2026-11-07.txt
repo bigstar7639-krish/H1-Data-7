@@ -117,3 +117,5 @@ Vocab 2293 - Success = Vetri 📚
 Coding Q 2294 - React la component enna?
 Aira: React component - Chinna piece!
 Movie 2295 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
+World Story 2296
+Oru chinna paris la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
