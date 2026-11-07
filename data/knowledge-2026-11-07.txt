@@ -1490,3 +1490,6 @@ A: Jessica Smith - Entertainment: Television
 Knowledge Quiz
 Q: What are the tallest twin buildings in the world, with a height of 1,483 ft (451.9 m)?
 A: Petronas Twin Towers, Malaysia - General Knowledge
+Knowledge Quiz
+Q: Which of the following is not a character in the video game Doki Doki Literature Club?
+A: Nico - Entertainment: Video Games
