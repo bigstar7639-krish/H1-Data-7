@@ -1653,3 +1653,15 @@ Reading 2638 - Harry Potter!
 Quote 2639 - Daily try pannu - Jeyichiduva! - Aira
 Emotion Q 2640 - happy?
 Aira: Super! Happy ah irukka!
+Knowledge 2641 - Internet - Hey buddy! 😊  
+**Internet**‑ஐ பற்றி சொல்லலாமா?  
+
+**Internet** என்பது உலகம் முழுவதும் உள்ள கணினிகள், ஸ்மார்ட் போன்கள், டேப்லெட்டுகள் எல்லாவற்றையும் ஒருங்கிணைக்கும் ஒரு **global network**. இதை “இணையம்” அல்லது “நெட்வொர்க்” என்றும் அழைக்கலாம்.  
+
+### முக்கிய அம்சங்கள்
+
+| புள்ளி | விவரம் (Tamil + English) |
+|------|--------------------------|
+| **அடிப்படை** | Internet என்பது **TCP/IP protocol**‑களின் அடிப்படையில் உருவாக்கப்பட்ட “packet‑switching” system. ஒவ்வொரு device‑யும் IP address (எ.கா: 192.168.1.1) வைத்திருக்கும். |
+| **வலை (WWW)** | World Wide Web (WWW) என்பது HTTP/HTTPS protocol‑களைப் பயன்படுத்தி web pages (HTML, CSS, JS) காட்டும் ஒரு **application layer**. |
+| **சேவைகள்** | Email, Social Media (Facebook, Instagram, Twitter), Streaming (YouTube, Netflix), Cloud storage (Google Drive, D
