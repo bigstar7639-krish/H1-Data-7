@@ -1027,3 +1027,4 @@ Knowledge 2248 - DNA - Hey buddy! 🧬 **DNA‑ஐப் பற்றி பே�
 - **Replication** – செல்கள் புது பிள்ளை (cell division) ஆகும் போது, DNA copy‑ஆக duplicate ஆகும். Enzyme DNA polymerase இதை செய்யும்.  
 - **Tran
 Pazhamozhi 2249 - Porumai - Perumai Tharum!
+Health 2250 - Health Tip: Daily 30 min walk ponga!
