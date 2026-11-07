@@ -1426,3 +1426,6 @@ A: He's the big kahuna. - Entertainment: Television
 Knowledge Quiz
 Q: In Prokofiev's 'Peter and the Wolf', the wolf itself is represented by a trio of which musical instrument?
 A: French horn - Entertainment: Music
+Knowledge Quiz
+Q: What was Radiohead's first album?
+A: Pablo Honey - Entertainment: Music
