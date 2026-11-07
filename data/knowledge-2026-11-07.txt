@@ -1174,3 +1174,6 @@ A: Sid Meier's Civilization VI - Entertainment: Video Games
 Knowledge Quiz
 Q: In the game "Persona 4", what is the canonical name of the protagonist?
 A: Yu Narukami - Entertainment: Video Games
+Knowledge Quiz
+Q: The mountainous Khyber Pass connects which of the two following countries?
+A: Afghanistan and Pakistan - Geography
