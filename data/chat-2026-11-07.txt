@@ -158,3 +158,4 @@ Vocab 2326 - Dream = Kanavu 📚
 Thirukkural 2327 - Anbu - Ellam Tharum! - Thirukkural
 Movie 2328 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Quote 2329 - Daily try pannu - Jeyichiduva! - Aira
+Talk 2330 - Quran pathi pesalama? Sollu! 💬
