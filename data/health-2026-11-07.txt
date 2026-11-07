@@ -29,3 +29,4 @@ Health 2691 - Health Tip: Fruits daily saapdunga! 🍎 💪
 Health 2766 - Yoga Tip: Daily 5 min deep breath edu! 🧘 💪
 Health 2790 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Health 2798 - Health Tip: 7 mani neram thoongunga! 😴 💪
+Health 2228 - Health Tip: Daily 8 glass water kudinga!
