@@ -79,3 +79,5 @@ Reading 2272 - 【entity-Harry Potter¦canonical_name=Harry Potter】! 📚
 Vocab 2273 - Kindness = Anbu 📚
 Vocab 2274 - Success = Vetri 📚
 Reading 2275 - Mahabharata! 📚
+Coding Q 2276 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
