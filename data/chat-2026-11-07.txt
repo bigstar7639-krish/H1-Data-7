@@ -586,3 +586,4 @@ Aira: Python loop: `for i in range(5): print(i)`
 Talk 2580 - Moon pathi pesalama? Sollu! 💬
 Thirukkural 2581 - Porumai - Periya Sakthi! - Thirukkural
 Quote 2582 - Daily try pannu - Jeyichiduva! - Aira
+Game 2583 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu! 🎮
