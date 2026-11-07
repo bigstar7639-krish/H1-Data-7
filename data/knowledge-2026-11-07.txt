@@ -1328,3 +1328,6 @@ A: Joja Co  - Entertainment: Video Games
 Knowledge Quiz
 Q: How many people can you recruit in the game Suikoden in a single playthrough?
 A: 107 - Entertainment: Video Games
+Knowledge Quiz
+Q: Out of the 3 Tots in Tots TV, who speaks French in the UK Version and Spanish in the US Version?
+A: Tilly - Entertainment: Television
