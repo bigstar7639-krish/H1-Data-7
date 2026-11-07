@@ -464,3 +464,4 @@ In the diner scene where Pumpkin (Tim Roth) and Honey Bunny (Amanda Plummer) rob
 Emotion Q 2500 - bored?
 Aira: Bored ah? Joke sollattuma? 😂
 Kavithai 2501 - Un Sirippu - En Vazhkai! - Aira
+Talk 2502 - Beauty pathi pesalama? Sollu! 💬
