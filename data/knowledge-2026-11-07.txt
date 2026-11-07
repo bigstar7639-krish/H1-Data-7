@@ -1432,3 +1432,6 @@ A: Pablo Honey - Entertainment: Music
 Knowledge Quiz
 Q: Which game was the first time Mario was voiced by Charles Martinet?
 A: Mario's Game Gallery - Entertainment: Video Games
+Knowledge Quiz
+Q: What was the name of the first Bulgarian personal computer?
+A: IMKO-1 - Science: Computers
