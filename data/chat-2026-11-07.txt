@@ -1210,3 +1210,23 @@ Vocab 2376 - Love = Kadhal
 Vocab 2377 - Dream = Kanavu
 Health 2378 - Health Tip: Fruits daily saapdunga!
 Pazhamozhi 2379 - Aalai Paathu - Aadi Paaru!
+Knowledge 2380 - Power - Hey buddy! 🚀  
+**Power**‑‑‑ “shakti” — oru concept adhu **work‑la**‑**time** ratio‑a. Namma everyday life‑la, physics‑la, electricity‑la, even personal‑growth‑la ellam idhai use panrom. Ippa konjam **Tamil‑Tanglish**‑la, plus **few extra languages**‑la explain panren, so you get the full picture!  
+
+---
+
+## 1️⃣ Physics‑la (Mechanics)
+
+| Concept | Formula | Meaning |
+|---------|---------|---------|
+| **Power (P)** | `P = W / t` | Work (`W` – joules) split by time (`t` – seconds). |
+| **Alternative** | `P = F · v` | Force (`F` – newtons) * velocity (`v` – m/s). |
+| **Unit** | **Watt (W)** | 1 W = 1 J/s. |
+
+**Example**: Oru 10 kg weight‑a 5 m height‑kku lift pannalam. Work = m·g·h = 10·9.8·5 ≈ 490 J. If it takes 2 seconds, power = 490 J / 2 s = **245 W**.
+
+---
+
+## 2️⃣ Electrical Power
+
+| Symb
