@@ -1610,3 +1610,5 @@ Story 2604
 Oru mountain la oru artist irunthan! Daily book padichan pannan! Oru naal power kedaichuchu! Life maariduchu!
 Aira AI: Unakku Shakespeare pathi enna theriyum? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Talk 2606 - Movie pathi pesalama? Sollu!
+Coding Q 2607 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
