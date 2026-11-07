@@ -1477,3 +1477,4 @@ Talk 2530 - Yoga pathi pesalama? Sollu!
 Q 2531 - Sun pathi oru story kekkura?
 Coding Q 2532 - React la component enna?
 Aira: React component - Chinna piece!
+Smart Q 2533 - Earth la eppadi jeyikkarathu?
