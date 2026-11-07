@@ -1072,3 +1072,6 @@ A: Seinfeld - Entertainment: Television
 Knowledge Quiz
 Q: This movie contains the quote, "I love the smell of napalm in the morning!"
 A: Apocalypse Now - Entertainment: Film
+Knowledge Quiz
+Q: How many pieces are there on the board at the start of a game of chess?
+A: 32 - Entertainment: Board Games
