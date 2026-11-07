@@ -1248,3 +1248,4 @@ Fact 106 - Honey - 3000 varusham kedathu!
 Kavithai 2394 - Un Sirippu - En Vazhkai! - Aira
 Q 2395 - Bible pathi oru story kekkura?
 Quote 2396 - Daily try pannu - Jeyichiduva! - Aira
+Talk 2397 - Teacher pathi pesalama? Sollu!
