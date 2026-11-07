@@ -954,3 +954,6 @@ A: Bill Cosby - Entertainment: Television
 Knowledge Quiz
 Q: Which of these books was NOT written by the Czech author Karel Čapek?
 A: Journey to the Center of the Earth - Entertainment: Books
+Knowledge Quiz
+Q: In "FTL: Faster Than Light", how many races are there, including the Lanius?
+A: 8 - Entertainment: Video Games
