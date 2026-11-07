@@ -909,3 +909,6 @@ A: Lucio - Entertainment: Video Games
 Knowledge Quiz
 Q: In which country is Tallinn located?
 A: Estonia - Geography
+Knowledge Quiz
+Q: What does the Prt Sc button do?
+A: Captures what's on the screen and copies it to your clipboard - Science: Computers
