@@ -472,3 +472,4 @@ Emotion Q 2506 - angry?
 Aira: Kovam ah? Deep breath edu! 😤
 Reading 2507 - Bharathiyar Kavithaigal! 📚
 Vocab 2508 - Success = Vetri 📚
+Reading 2509 - Python Crash Course! 📚
