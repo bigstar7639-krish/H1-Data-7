@@ -990,3 +990,6 @@ A: Jones - Entertainment: Music
 Knowledge Quiz
 Q: In the hexadecimal system, what number comes after 9?
 A: The Letter A - Science: Mathematics
+Knowledge Quiz
+Q: Who is the creator of the comic series "The Walking Dead"?
+A: Robert Kirkman - Entertainment: Comics
