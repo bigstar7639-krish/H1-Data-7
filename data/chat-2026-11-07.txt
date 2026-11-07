@@ -1274,3 +1274,4 @@ Aira: React component - Chinna piece!
 Game 2405 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Coding Q 2406 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Talk 2407 - Tech pathi pesalama? Sollu!
