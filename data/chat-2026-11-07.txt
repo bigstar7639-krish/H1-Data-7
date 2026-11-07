@@ -585,3 +585,4 @@ Coding Q 2579 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Talk 2580 - Moon pathi pesalama? Sollu! 💬
 Thirukkural 2581 - Porumai - Periya Sakthi! - Thirukkural
+Quote 2582 - Daily try pannu - Jeyichiduva! - Aira
