@@ -3,3 +3,4 @@ Game 2356 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
 Game 2404 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu! 🎮
 Game 2434 - Coin Toss - Ne Toss nu Sollu! 🎮
 Game 2438 - Dice - Ne Dice nu Sollu! 🎮
+Game 2443 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
