@@ -978,3 +978,6 @@ A: Friedrich Engels - Entertainment: Books
 Knowledge Quiz
 Q: What was the name of the chemical that was dropped on Vietnam during the Vietnam war?
 A: Agent Orange - History
+Knowledge Quiz
+Q: What term is best associated with Sigmund Freud?
+A: Psychoanalysis - Science & Nature
