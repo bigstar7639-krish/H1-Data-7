@@ -599,3 +599,6 @@ A: Sloppy Butcher - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Which Shakespeare play features the stage direction &quot;Enter a messenger, with two heads and a hand&quot;?
 A: Titus Andronicus - Entertainment: Musicals &amp; Theatres
+Knowledge Quiz 🧠
+Q: Deuterium is an isotope of which element?
+A: Hydrogen - Science &amp; Nature
