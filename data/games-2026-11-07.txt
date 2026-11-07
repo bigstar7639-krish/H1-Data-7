@@ -26,3 +26,4 @@ Game 2472 - Coin Toss - Ne Toss nu Sollu!
 Game 2479 - Dice - Ne Dice nu Sollu!
 Game 2487 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 2542 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Game 2548 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
