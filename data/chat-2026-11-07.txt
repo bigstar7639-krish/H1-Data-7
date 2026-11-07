@@ -1782,3 +1782,5 @@ Knowledge 2703 - Ponniyin Selvan - Ponniyin Selvan pathi sollu - Nalla question!
 Movie 2704 - Ponniyin Selvan - Kalki!
 World Story 2705
 Oru chinna madurai la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Story 2706
+Oru chinna world la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
