@@ -441,3 +441,6 @@ Knowledge 2546 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Harry 
 Knowledge Quiz 🧠
 Q: This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.
 A: Eris - Mythology
+Knowledge Quiz 🧠
+Q: In &quot;Rainbow Six: Siege&quot;, which of the following operators cannot breach reinforced walls?
+A: Buck - Entertainment: Video Games
