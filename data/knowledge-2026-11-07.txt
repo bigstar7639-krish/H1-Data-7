@@ -939,3 +939,6 @@ A: Lighthouse - Science: Gadgets
 Knowledge Quiz
 Q: Which of these did mathematician Leonhard Euler NOT develop?
 A: An improvement to the Fast Fourier Transform - Science: Mathematics
+Knowledge Quiz
+Q: On the cover of 'Abbey Road,' which of the Beatles is not wearing shoes?
+A: Paul McCartney - Entertainment: Music
