@@ -1494,3 +1494,6 @@ Knowledge Quiz
 Q: Which of the following is not a character in the video game Doki Doki Literature Club?
 A: Nico - Entertainment: Video Games
 Knowledge 2766 - Politics - Politics pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Knowledge Quiz
+Q: How many bytes are in a single Kibibyte?
+A: 1024 - Science: Computers
