@@ -1263,3 +1263,6 @@ A: Harrison Ford - Entertainment: Film
 Knowledge Quiz
 Q: Who was the first President of the People's Republic of China?
 A: Mao Zedong - History
+Knowledge Quiz
+Q: In the 1964 film "Zulu", what song does the British Army company sing before the final battle?
+A: Men of Harlech - Entertainment: Film
