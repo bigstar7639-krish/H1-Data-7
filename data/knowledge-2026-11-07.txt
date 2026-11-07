@@ -1165,3 +1165,6 @@ A: Justin Bieber - Entertainment: Music
 Knowledge Quiz
 Q: Who was the first Legendary Pokemon to be defeated by Ash Ketchum in the Pokémon anime?
 A: Articuno - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: How many countries does Mexico border?
+A: 3 - Geography
