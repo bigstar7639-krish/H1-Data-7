@@ -871,3 +871,4 @@ Thirukkural 2744 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Coding Q 2745 - React la component enna?
 Aira: React component - Chinna piece!
 Talk 2746 - Sun pathi pesalama? Sollu! 💬
+Vocab 2747 - Peace = Amaithi 📚
