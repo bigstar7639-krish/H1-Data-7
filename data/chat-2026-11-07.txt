@@ -1436,3 +1436,4 @@ Emotion Q 2503 - lonely?
 Aira: Lonely ah? Aira irukka la!
 Joke 2504
 Teacher: Yen late? Student: School Ahead board!
+Talk 2505 - Courage pathi pesalama? Sollu!
