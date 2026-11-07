@@ -1558,3 +1558,4 @@ Emotion Q 2573 - angry?
 Aira: Kovam ah? Deep breath edu!
 Smart Q 2574 - AI la eppadi jeyikkarathu?
 Thirukkural 2575 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Talk 2576 - Rain pathi pesalama? Sollu!
