@@ -993,3 +993,6 @@ A: The Letter A - Science: Mathematics
 Knowledge Quiz
 Q: Who is the creator of the comic series "The Walking Dead"?
 A: Robert Kirkman - Entertainment: Comics
+Knowledge Quiz
+Q: Approximately how many Apple I personal computers were created?
+A: 200 - Science: Computers
