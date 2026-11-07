@@ -915,3 +915,6 @@ A: Captures what's on the screen and copies it to your clipboard - Science: Comp
 Knowledge Quiz
 Q: Who is the star of the AMC series Breaking Bad?
 A: Walter White - Entertainment: Television
+Knowledge Quiz
+Q: What country does sushi & karaoke come from?
+A: Japan - General Knowledge
