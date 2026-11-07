@@ -4,3 +4,4 @@ kan - in.gazette.karnataka_d.2021-04-08.424 - Karnataka Daily Gazette, 2021-04-0
 jpn - text-19 - Text 19
 chi - shibao-1919.07.18 - 時報 1919.07.18
 kan - in.gazette.karnataka_eo.2021-01-30.159 - Karnataka ExtraOrdinary Gazette, 2021-01-30, Extra Ordinary, Part III
+kan - in.gazette.karnataka_d.2021-01-29.ELNGPCR0000012021 - Karnataka Daily Gazette, 2021-01-29, Daily, Part III
