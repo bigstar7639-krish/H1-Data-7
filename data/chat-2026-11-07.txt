@@ -1609,3 +1609,4 @@ Smart Q 2603 - Internet la eppadi jeyikkarathu?
 Story 2604
 Oru mountain la oru artist irunthan! Daily book padichan pannan! Oru naal power kedaichuchu! Life maariduchu!
 Aira AI: Unakku Shakespeare pathi enna theriyum? - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Talk 2606 - Movie pathi pesalama? Sollu!
