@@ -545,3 +545,4 @@ Aira: Website - HTML + CSS + JS!
 Coding Q 2556 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Pazhamozhi 2557 - Porumai - Perumai Tharum!
+Vocab 2558 - Friend = Nanban 📚
