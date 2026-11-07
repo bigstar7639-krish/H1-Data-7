@@ -1265,3 +1265,5 @@ Aira AI: Hey buddy! 😄 நான் Aira, உன் Tamil‑Tanglish friend,
 | **Ventricle** (lower chamber) | கீழ்முகம் (வெண்ட்ரிக்கைல்) | Blood‑ஐ push செய்கிறது – right ventricle sends to lungs, left ventricle sends to the whole body. |
 | **Valves** | முறைமைகள் | **Tricuspid**, **Pulmonary**, **Mitral**, **Aortic** – back‑flow‑ஐ stop செய்கிறது. |
 | **Septum** | பாகம் | Right‑left chambers‑ஐ separate பண்ணும் thin wa
+Coding Q 2401 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
