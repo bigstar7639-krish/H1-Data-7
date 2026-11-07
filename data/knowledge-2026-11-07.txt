@@ -1401,3 +1401,6 @@ A: Donkey Kong - Entertainment: Video Games
 Knowledge Quiz
 Q: What part of the brain takes its name from the Greek for seahorse?
 A: Hippocampus - Science & Nature
+Knowledge Quiz
+Q: In "A Certain Scientific Railgun", how many "sisters" did Accelerator have to kill to achieve the rumored level 6?
+A: 20,000 - Entertainment: Japanese Anime & Manga
