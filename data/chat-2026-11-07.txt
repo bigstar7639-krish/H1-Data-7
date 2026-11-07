@@ -875,3 +875,5 @@ Vocab 2747 - Peace = Amaithi 📚
 Pazhamozhi 2748 - Porumai - Perumai Tharum!
 Emotion Q 2749 - love?
 Aira: Kadhal - Azhagu! 💘
+Emotion Q 2750 - bored?
+Aira: Bored ah? Joke sollattuma? 😂
