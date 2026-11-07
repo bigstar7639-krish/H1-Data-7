@@ -1257,3 +1257,6 @@ A: 1982 - Science: Gadgets
 Knowledge Quiz
 Q: What is the primary addictive substance found in tobacco?
 A: Nicotine - Science & Nature
+Knowledge Quiz
+Q: Who portrayed Han Solo in the Star Wars main film series?
+A: Harrison Ford - Entertainment: Film
