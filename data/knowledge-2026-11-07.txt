@@ -848,3 +848,6 @@ A: Clark Kent - Entertainment: Comics
 Knowledge Quiz
 Q: What is the name of the protagonist's first Persona in "Persona 5"?
 A: Arsene - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following is a castle?
+A: Elizabeth Castle - Geography
