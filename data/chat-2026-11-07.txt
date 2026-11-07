@@ -1051,3 +1051,4 @@ Recipe 2268 - Snacks - Potato + Masala - Crispy!
 Quote 2269 - Daily try pannu - Jeyichiduva! - Aira
 Smart Q 2270 - Flower la eppadi jeyikkarathu?
 Talk 2271 - India pathi pesalama? Sollu!
+Business Idea 2272 - Tuition - Veetla Tuition!
