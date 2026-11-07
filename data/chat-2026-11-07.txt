@@ -1703,3 +1703,4 @@ Q 2668 - Un life la Temple eppadi irukku?
 Q 2669 - Travel pathi oru secret sollatta?
 Quote 2670 - Daily try pannu - Jeyichiduva! - Aira
 Health 2671 - Yoga Tip: Daily 5 min deep breath edu!
+Health 2672 - Health Tip: Daily 8 glass water kudinga!
