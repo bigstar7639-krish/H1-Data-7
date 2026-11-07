@@ -1177,3 +1177,6 @@ A: Yu Narukami - Entertainment: Video Games
 Knowledge Quiz
 Q: The mountainous Khyber Pass connects which of the two following countries?
 A: Afghanistan and Pakistan - Geography
+Knowledge Quiz
+Q: In the Half-Life mod "Afraid of Monsters" what was the name of the main protagonist?
+A: David Leatherhoff - Entertainment: Video Games
