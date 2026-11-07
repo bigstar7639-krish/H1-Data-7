@@ -456,3 +456,6 @@ A: 4 - Entertainment: Music
 Knowledge Quiz 🧠
 Q: Montreal is in which Canadian province?
 A: Quebec - Geography
+Knowledge Quiz 🧠
+Q: What is the number of keys on a standard Windows Keyboard?
+A: 104 - Science: Computers
