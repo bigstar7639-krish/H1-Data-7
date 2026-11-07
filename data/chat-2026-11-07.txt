@@ -26,3 +26,5 @@ Vocab 2243 - Friend = Nanban 📚
 Kavithai 2244 - Un Sirippu - En Vazhkai! - Aira
 Vocab 2245 - Friend = Nanban 📚
 Smart Q 2246 - Robot la eppadi jeyikkarathu?
+Motivation 2247
+Paravalla! Rest edu - Thirumba try pannu!
