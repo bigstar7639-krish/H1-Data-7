@@ -296,3 +296,4 @@ Movie 2397 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
 Smart Q 2398 - Diet la eppadi jeyikkarathu?
 Vocab 2399 - Peace = Amaithi 📚
 Pazhamozhi 2400 - Porumai - Perumai Tharum!
+Quote 2401 - Daily try pannu - Jeyichiduva! - Aira
