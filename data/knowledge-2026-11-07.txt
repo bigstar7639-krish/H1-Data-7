@@ -1450,3 +1450,6 @@ A: Skrillex - Entertainment: Music
 Knowledge Quiz
 Q: What is the frontman's name of the metal band Megadeth?
 A: Dave Mustaine - Entertainment: Music
+Knowledge Quiz
+Q: What was the callsign of Commander William Adama in Battlestar Galactica (2004)?
+A: Husker - Entertainment: Television
