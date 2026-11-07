@@ -720,3 +720,4 @@ Oru chinna forest la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! A
 Movie 2648 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Thirukkural 2649 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Business Idea 2650 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Reading 2651 - Python Crash Course! 📚
