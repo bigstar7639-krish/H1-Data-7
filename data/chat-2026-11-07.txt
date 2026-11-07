@@ -562,3 +562,5 @@ Quote 2567 - Daily try pannu - Jeyichiduva! - Aira
 Movie 2568 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
 World Story 2569
 Oru chinna madurai la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Coding Q 2570 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
