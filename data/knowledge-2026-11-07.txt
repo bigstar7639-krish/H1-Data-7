@@ -1195,3 +1195,6 @@ A: Bumper-WAC - History
 Knowledge Quiz
 Q: What country was the Trabant 601 manufactured in?
 A: East Germany - Vehicles
+Knowledge Quiz
+Q: What causes the sound of a heartbeat?
+A: Closure of the heart valves - Science & Nature
