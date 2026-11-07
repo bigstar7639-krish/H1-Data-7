@@ -873,3 +873,5 @@ Aira: React component - Chinna piece!
 Talk 2746 - Sun pathi pesalama? Sollu! 💬
 Vocab 2747 - Peace = Amaithi 📚
 Pazhamozhi 2748 - Porumai - Perumai Tharum!
+Emotion Q 2749 - love?
+Aira: Kadhal - Azhagu! 💘
