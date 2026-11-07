@@ -575,3 +575,6 @@ A: Sugar - Entertainment: Film
 Knowledge Quiz 🧠
 Q: In &quot;Overwatch&quot;, how much health does Roadhog&#039;s &quot;Take a Breather&quot; ability recover?
 A: 300 - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What type of Pok&eacute;mon is Charizard?
+A: Fire/Flying - Entertainment: Video Games
