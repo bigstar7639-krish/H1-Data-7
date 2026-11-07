@@ -1248,3 +1248,6 @@ A: Program And Control Man - Entertainment: Television
 Knowledge Quiz
 Q: What's the most common time signature for rock songs?
 A: 4/4 - Entertainment: Music
+Knowledge Quiz
+Q: Which day in "Papers, Please" does the man in red appear?
+A: Day 23 - Entertainment: Video Games
