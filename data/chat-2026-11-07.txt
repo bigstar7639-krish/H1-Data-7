@@ -1026,3 +1026,4 @@ Knowledge 2248 - DNA - Hey buddy! 🧬 **DNA‑ஐப் பற்றி பே�
 - **Genetic information storage** – ஒவ்வொரு உயிரினத்தின் *அம்சங்கள்* (eye colour, height, enzyme functions) அனைத்தும் DNA‑யில் encoded.  
 - **Replication** – செல்கள் புது பிள்ளை (cell division) ஆகும் போது, DNA copy‑ஆக duplicate ஆகும். Enzyme DNA polymerase இதை செய்யும்.  
 - **Tran
+Pazhamozhi 2249 - Porumai - Perumai Tharum!
