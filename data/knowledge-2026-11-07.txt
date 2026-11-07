@@ -1216,3 +1216,6 @@ A: 23 - Science & Nature
 Knowledge Quiz
 Q: Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?
 A: John Steinbeck - Entertainment: Books
+Knowledge Quiz
+Q: Which Mario spin-off game did Waluigi make his debut?
+A: Mario Tennis - Entertainment: Video Games
