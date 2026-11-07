@@ -1168,3 +1168,5 @@ Teacher: Yen late? Student: School Ahead board!
 Q 2343 - Un life la Shakespeare eppadi irukku?
 Reading 2344 - Bharathiyar Kavithaigal!
 Recipe 2345 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Coding Q 2346 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
