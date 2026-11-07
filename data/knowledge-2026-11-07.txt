@@ -1269,3 +1269,6 @@ A: Men of Harlech - Entertainment: Film
 Knowledge Quiz
 Q: In 2016, who won the Formula 1 World Constructor's Championship for the third time in a row?
 A: Mercedes-AMG Petronas - Sports
+Knowledge Quiz
+Q: In Star Wars: Republic Commando (2005), what is the name of the squad that you play as?
+A: Delta Squad - Entertainment: Video Games
