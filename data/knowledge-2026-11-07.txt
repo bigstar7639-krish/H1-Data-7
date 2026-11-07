@@ -1287,3 +1287,6 @@ A: 17 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which was the first M-rated video game developed by Squaresoft/Square Enix?
 A: Parasite Eve - Entertainment: Video Games
+Knowledge Quiz
+Q: In board games, an additional or ammended rule that applies to a certain group or place is informally known as a "what" rule?
+A: House - Entertainment: Board Games
