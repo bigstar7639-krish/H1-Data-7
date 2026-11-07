@@ -1392,3 +1392,6 @@ A: James Rodríguez - Sports
 Knowledge Quiz
 Q: What's the most common time signature for rock songs?
 A: 4/4 - Entertainment: Music
+Knowledge Quiz
+Q: In networking, what does OSPF stand for?
+A: Open Shortest Path First - Science: Computers
