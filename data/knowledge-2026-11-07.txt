@@ -891,3 +891,6 @@ A: Qatar - Sports
 Knowledge Quiz
 Q: All Souls and Merton are constituent colleges of what university?
 A: Oxford - General Knowledge
+Knowledge Quiz
+Q: Who painted the biblical fresco The Creation of Adam?
+A: Michelangelo - Art
