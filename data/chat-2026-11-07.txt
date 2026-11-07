@@ -1120,3 +1120,5 @@ Paravalla! Rest edu - Thirumba try pannu!
 Fact 101 - Tamil - 2000+ varusha mozhi!
 Coding Q 2317 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Emotion Q 2318 - angry?
+Aira: Kovam ah? Deep breath edu!
