@@ -1245,3 +1245,6 @@ A: 25 - Entertainment: Video Games
 Knowledge Quiz
 Q: In the Black Mirror episode "Bandersnatch", PAC-MAN stands for:
 A: Program And Control Man - Entertainment: Television
+Knowledge Quiz
+Q: What's the most common time signature for rock songs?
+A: 4/4 - Entertainment: Music
