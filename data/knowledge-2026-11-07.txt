@@ -67,3 +67,6 @@ A: Anselm of Canterbury - History
 Knowledge Quiz 🧠
 Q: In &quot;Sonic the Hedgehog&quot; comic, who was the creator of Roboticizer? 
 A: Professor Charles the Hedgehog - Entertainment: Comics
+Knowledge Quiz 🧠
+Q: In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+A: print(&quot;Hello World&quot;) - Science: Computers
