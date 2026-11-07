@@ -1637,3 +1637,5 @@ Talk 2624 - Sleep pathi pesalama? Sollu!
 Fact 110 - Honey - 3000 varusham kedathu!
 World Story 2626
 Oru chinna village la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Emotion Q 2627 - angry?
+Aira: Kovam ah? Deep breath edu!
