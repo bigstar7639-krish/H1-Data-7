@@ -1346,3 +1346,6 @@ Knowledge 2641 - Internet - Hey buddy! 😊
 Knowledge Quiz
 Q: Marvel vs Capcom 2: New age of Heroes was released in what year?
 A: 2000 - Entertainment: Video Games
+Knowledge Quiz
+Q: Who created Ultron of Earth-616?
+A: Henry Pym - Entertainment: Comics
