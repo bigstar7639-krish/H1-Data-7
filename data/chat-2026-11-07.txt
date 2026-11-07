@@ -286,3 +286,4 @@ Emotion Q 2390 - happy?
 Aira: Super! Happy ah irukka! 😊
 Knowledge 2391 - Taj Mahal - Taj Mahal pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Movie 2392 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
+Vocab 2393 - Courage = Thairiyam 📚
