@@ -1153,3 +1153,6 @@ A: Super Mario Sunshine - Entertainment: Video Games
 Knowledge Quiz
 Q: Linus Torvalds created which of these?
 A: Linux - Science: Computers
+Knowledge Quiz
+Q: What is the perk that was introduced in the "Call Of Duty: Zombies" map, "Mob Of The Dead"?
+A: Electric Cherry - Entertainment: Video Games
