@@ -1343,3 +1343,6 @@ Knowledge 2641 - Internet - Hey buddy! 😊
 | **அடிப்படை** | Internet என்பது **TCP/IP protocol**‑களின் அடிப்படையில் உருவாக்கப்பட்ட “packet‑switching” system. ஒவ்வொரு device‑யும் IP address (எ.கா: 192.168.1.1) வைத்திருக்கும். |
 | **வலை (WWW)** | World Wide Web (WWW) என்பது HTTP/HTTPS protocol‑களைப் பயன்படுத்தி web pages (HTML, CSS, JS) காட்டும் ஒரு **application layer**. |
 | **சேவைகள்** | Email, Social Media (Facebook, Instagram, Twitter), Streaming (YouTube, Netflix), Cloud storage (Google Drive, D
+Knowledge Quiz
+Q: Marvel vs Capcom 2: New age of Heroes was released in what year?
+A: 2000 - Entertainment: Video Games
