@@ -71,3 +71,5 @@ Vocab 2267 - Success = Vetri 📚
 Talk 2268 - Madurai pathi pesalama? Sollu! 💬
 Coding Q 2269 - App eppadi pannurathu?
 Aira: App - Idea - Design - Code!
+Coding Q 2270 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
