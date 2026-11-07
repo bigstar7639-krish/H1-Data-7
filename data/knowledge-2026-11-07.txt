@@ -1141,3 +1141,6 @@ A: Scout - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the real name of prominent electronic musician Aphex Twin?
 A: Richard D. James - Entertainment: Music
+Knowledge Quiz
+Q: A classic 1976 song by Blue Oyster Cult features the advice “Don’t Fear The” what?
+A: Reaper - Entertainment: Music
