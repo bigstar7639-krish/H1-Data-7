@@ -1478,3 +1478,6 @@ A: s - Entertainment: Video Games
 Knowledge Quiz
 Q: Who was the 1st President of Mexico?
 A: Guadalupe Victoria - General Knowledge
+Knowledge Quiz
+Q: In the Lord of the Rings, who is the father of the dwarf Gimli?
+A: Gloin - Entertainment: Books
