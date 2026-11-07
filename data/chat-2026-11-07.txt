@@ -1030,3 +1030,4 @@ Pazhamozhi 2249 - Porumai - Perumai Tharum!
 Health 2250 - Health Tip: Daily 30 min walk ponga!
 Quote 2251 - Daily try pannu - Jeyichiduva! - Aira
 Pazhamozhi 2252 - Aalai Paathu - Aadi Paaru!
+Knowledge 2253 - Ocean - Ocean pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
