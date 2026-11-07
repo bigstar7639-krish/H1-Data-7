@@ -1156,3 +1156,6 @@ A: Linux - Science: Computers
 Knowledge Quiz
 Q: What is the perk that was introduced in the "Call Of Duty: Zombies" map, "Mob Of The Dead"?
 A: Electric Cherry - Entertainment: Video Games
+Knowledge Quiz
+Q: What breed of dog was Marley in the film "Marley & Me" (2008)?
+A: Labrador Retriever - Entertainment: Film
