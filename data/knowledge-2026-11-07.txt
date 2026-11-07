@@ -1045,3 +1045,6 @@ A: Chimichanga - Entertainment: Board Games
 Knowledge Quiz
 Q: Which punk rock band released hit songs such as "Californication", "Can't Stop" and "Under the Bridge"?
 A: Red Hot Chilli Peppers - Entertainment: Music
+Knowledge Quiz
+Q: When was Steam first released?
+A: 2003 - Entertainment: Video Games
