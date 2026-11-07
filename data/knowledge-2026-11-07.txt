@@ -1081,3 +1081,6 @@ A: Atlantic City, New Jersey - Entertainment: Board Games
 Knowledge Quiz
 Q: What was the first game in the "Battlefield" series?
 A: Battlefield 1942 - Entertainment: Video Games
+Knowledge Quiz
+Q: In the 1964 film "Zulu", what song does the British Army company sing before the final battle?
+A: Men of Harlech - Entertainment: Film
