@@ -1120,3 +1120,6 @@ A: Nevada - General Knowledge
 Knowledge Quiz
 Q: What is the final game of the "Zero Escape" series called?
 A: Zero Escape Zero Time Dilemma  - Entertainment: Video Games
+Knowledge Quiz
+Q: In "The Witness", how many lasers must be activated to get into the mountain area?
+A: 7 - Entertainment: Video Games
