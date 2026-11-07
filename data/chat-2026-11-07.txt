@@ -1488,3 +1488,5 @@ Movie 2539 - Leo - Vijay - Action!
 Quote 2540 - Daily try pannu - Jeyichiduva! - Aira
 Fact 108 - Honey - 3000 varusham kedathu!
 Game 2542 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Story 2543
+Oru city la oru ponnu irunthan! Daily pray pannaan pannan! Oru naal dream kedaichuchu! Life maariduchu!
