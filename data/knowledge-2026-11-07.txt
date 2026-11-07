@@ -1093,3 +1093,6 @@ A: Kip - General Knowledge
 Knowledge Quiz
 Q: Half-Life by Valve uses the GoldSrc game engine, which is a highly modified version of what engine?
 A: Quake Engine - Entertainment: Video Games
+Knowledge Quiz
+Q: Which restaurant's mascot is a clown?
+A: McDonald's - General Knowledge
