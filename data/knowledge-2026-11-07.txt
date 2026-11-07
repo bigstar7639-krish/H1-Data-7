@@ -1078,3 +1078,6 @@ A: 32 - Entertainment: Board Games
 Knowledge Quiz
 Q: The board game Monopoly takes its street names from which real American city?
 A: Atlantic City, New Jersey - Entertainment: Board Games
+Knowledge Quiz
+Q: What was the first game in the "Battlefield" series?
+A: Battlefield 1942 - Entertainment: Video Games
