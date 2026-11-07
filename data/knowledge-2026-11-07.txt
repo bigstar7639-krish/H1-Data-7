@@ -1306,3 +1306,6 @@ Knowledge 2618 - Biology - Biology pathi sollu - Nalla question! Daily try pannu
 Knowledge Quiz
 Q: How many differently shaped Tetris pieces are there?
 A: 7 - Entertainment: Video Games
+Knowledge Quiz
+Q: Into which basin does the Jordan River flow into?
+A: Dead Sea - Geography
