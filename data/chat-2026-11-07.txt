@@ -868,3 +868,5 @@ Aira: App - Idea - Design - Code!
 Story 2743
 Oru chinna village la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Thirukkural 2744 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Coding Q 2745 - React la component enna?
+Aira: React component - Chinna piece!
