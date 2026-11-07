@@ -845,3 +845,6 @@ A: Stefán Stefánsson - Entertainment: Television
 Knowledge Quiz
 Q: What is the alter-ego of the DC comics character "Superman"?
 A: Clark Kent - Entertainment: Comics
+Knowledge Quiz
+Q: What is the name of the protagonist's first Persona in "Persona 5"?
+A: Arsene - Entertainment: Video Games
