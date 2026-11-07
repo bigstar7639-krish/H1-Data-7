@@ -1410,3 +1410,6 @@ A: Day 23 - Entertainment: Video Games
 Knowledge Quiz
 Q: Who was the Author of the manga Uzumaki?
 A: Junji Ito - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: Who was the inspiration for Cuthbert Calculus in the Tintin series?
+A: Auguste Picard - Entertainment: Comics
