@@ -1473,3 +1473,4 @@ Coding Q 2528 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 World Story 2529
 Oru chinna world la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Talk 2530 - Yoga pathi pesalama? Sollu!
