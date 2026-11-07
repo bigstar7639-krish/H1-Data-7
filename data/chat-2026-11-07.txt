@@ -1671,3 +1671,5 @@ Emotion Q 2644 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
 Emotion Q 2645 - excited?
 Aira: Excited ah! Sollu!
+Story 2646
+Oru london la oru raja irunthan! Daily help pannan pannan! Oru naal hope kedaichuchu! Life maariduchu!
