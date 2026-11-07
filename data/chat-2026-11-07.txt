@@ -1390,3 +1390,4 @@ Oru chinna tokyo la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana
 Talk 2486 - Time pathi pesalama? Sollu!
 Game 2487 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Business Idea 2488 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Talk 2489 - Happy pathi pesalama? Sollu!
