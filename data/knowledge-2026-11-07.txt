@@ -824,3 +824,6 @@ Knowledge 2248 - DNA - Hey buddy! 🧬 **DNA‑ஐப் பற்றி பே�
 Knowledge Quiz
 Q: In "Breaking Bad", Walter White is a high school teacher diagnosed with which form of cancer?
 A: Lung Cancer - Entertainment: Television
+Knowledge Quiz
+Q: Who assassinated Archduke Franz Ferdinand?
+A: Gavrilo Princip - History
