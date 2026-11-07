@@ -1150,3 +1150,6 @@ A: Java Virtual Machine - Science: Computers
 Knowledge Quiz
 Q: Which Super Mario video game when they introduce Bowser Jr. for the first time?
 A: Super Mario Sunshine - Entertainment: Video Games
+Knowledge Quiz
+Q: Linus Torvalds created which of these?
+A: Linux - Science: Computers
