@@ -148,3 +148,4 @@ Game 2316 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil! 🎮
 Smart Q 2317 - Bhagavad Gita la eppadi jeyikkarathu?
 Recipe 2318 - Snacks - Potato + Masala - Crispy! 🍔
 Movie 2319 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
+Recipe 2320 - Snacks - Potato + Masala - Crispy! 🍔
