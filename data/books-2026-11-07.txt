@@ -59,3 +59,4 @@ tel - burning-rice-field-telugu - కాలుతున్న ధాన్యప
 tel - in.gazette.telangana.2026-09-16.1790749024058 - Telangana Gazette, 2026-09-16, Extraordinary, Part PART II, Number 821
 kan - in.gazette.karnataka_eo.2020-11-07.DPAR73GAM20194 - Karnataka ExtraOrdinary Gazette, 2020-11-07, Extra Ordinary, Part IVA
 kan - in.gazette.karnataka_d.2022-01-29.3607 - Karnataka Daily Gazette, 2022-01-29, Daily
+kan - in.gazette.karnataka_eo.2020-08-06.102 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
