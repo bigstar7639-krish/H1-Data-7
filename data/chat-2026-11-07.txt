@@ -810,3 +810,5 @@ Emotion Q 2710 - angry?
 Aira: Kovam ah? Deep breath edu! 😤
 Emotion Q 2711 - happy?
 Aira: Super! Happy ah irukka! 😊
+Joke 2712
+Teacher: Yen late? Student: School Ahead board! 😂
