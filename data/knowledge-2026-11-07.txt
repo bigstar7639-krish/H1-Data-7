@@ -842,3 +842,6 @@ Knowledge 2261 - Money - Money pathi sollu - Nalla question! Daily try pannu - J
 Knowledge Quiz
 Q: In the television show "Lazy Town", who is the actor of Robbie Rotten?
 A: Stefán Stefánsson - Entertainment: Television
+Knowledge Quiz
+Q: What is the alter-ego of the DC comics character "Superman"?
+A: Clark Kent - Entertainment: Comics
