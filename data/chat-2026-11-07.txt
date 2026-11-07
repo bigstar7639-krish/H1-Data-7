@@ -1038,3 +1038,4 @@ Vocab 2257 - Happy = Santhosham
 Movie 2258 - Harry Potter - Magic!
 Knowledge 2259 - Family - Family pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Kavithai 2260 - Un Kural - En Isai! - Aira
+Knowledge 2261 - Money - Money pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
