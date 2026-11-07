@@ -1362,3 +1362,6 @@ A: Akira - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Who won the 2016 Formula 1 World Driver's Championship?
 A: Nico Rosberg - Sports
+Knowledge Quiz
+Q: What is the name of the poker hand containing three of a kind and a pair?
+A: Full House - General Knowledge
