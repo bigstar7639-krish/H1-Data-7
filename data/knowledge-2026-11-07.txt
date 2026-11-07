@@ -1315,3 +1315,6 @@ A: 2001 - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the largest planet in the Solar System?
 A: Jupiter - Science & Nature
+Knowledge Quiz
+Q: Which of the following created and directed the Katamari Damacy series?
+A: Keita Takahashi - Entertainment: Video Games
