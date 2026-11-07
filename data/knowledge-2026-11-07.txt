@@ -912,3 +912,6 @@ A: Estonia - Geography
 Knowledge Quiz
 Q: What does the Prt Sc button do?
 A: Captures what's on the screen and copies it to your clipboard - Science: Computers
+Knowledge Quiz
+Q: Who is the star of the AMC series Breaking Bad?
+A: Walter White - Entertainment: Television
