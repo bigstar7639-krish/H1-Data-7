@@ -1189,3 +1189,6 @@ A: Austria - Science: Computers
 Knowledge Quiz
 Q: What year was Red Hot Chill Pepper's album "Californication" released?
 A: 1999 - Entertainment: Music
+Knowledge Quiz
+Q: What was the first recorded object to ever reach space?
+A: Bumper-WAC - History
