@@ -1057,3 +1057,4 @@ Pazhamozhi 2274 - Porumai - Perumai Tharum!
 Health 2275 - Health Tip: Daily 8 glass water kudinga!
 Emotion Q 2276 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
+Quote 2277 - Daily try pannu - Jeyichiduva! - Aira
