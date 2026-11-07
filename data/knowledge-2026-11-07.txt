@@ -530,3 +530,6 @@ Knowledge 2609 - Education - Education pathi sollu - Nalla question! Daily try p
 Knowledge Quiz 🧠
 Q: Which of the following physical typologies are used with Ethernet Networks?
 A: Star - Science: Computers
+Knowledge Quiz 🧠
+Q: Hockey player Wayne Gretzky was born in what Canadian province?
+A: Ontario - Sports
