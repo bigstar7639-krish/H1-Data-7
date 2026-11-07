@@ -692,3 +692,6 @@ A: The Go-Getters - Entertainment: Music
 Knowledge Quiz 🧠
 Q: In Fallout: New Vegas, upon starting each one of the four campaign DLCs, which one of them does not have a warning screen/recommended level? 
 A: Honest Hearts  - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: When was Chapter 1 of the Source Engine mod &quot;Underhell&quot; released?
+A: September 1st, 2013 - Entertainment: Video Games
