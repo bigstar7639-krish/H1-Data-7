@@ -1174,3 +1174,5 @@ Aira AI: Unakku Future pathi enna theriyum? - Nalla question! Daily try pannu - 
 Game 2348 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Movie 2349 - Ponniyin Selvan - Kalki!
 Talk 2350 - Hope pathi pesalama? Sollu!
+Emotion Q 2351 - lonely?
+Aira: Lonely ah? Aira irukka la!
