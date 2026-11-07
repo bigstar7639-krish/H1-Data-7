@@ -422,3 +422,6 @@ A: 7 - 1 - Sports
 Knowledge Quiz 🧠
 Q: In 2004, which person(s) created &quot;Roblox&quot;?
 A: David Baszucki and Erik Cassel - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What is the northernmost human settlement with year round inhabitants?
+A: Alert, Canada - Geography
