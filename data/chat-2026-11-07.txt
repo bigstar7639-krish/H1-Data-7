@@ -116,3 +116,4 @@ Vocab 2292 - Peace = Amaithi 📚
 Vocab 2293 - Success = Vetri 📚
 Coding Q 2294 - React la component enna?
 Aira: React component - Chinna piece!
+Movie 2295 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
