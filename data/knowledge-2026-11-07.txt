@@ -802,3 +802,6 @@ A: Dark Souls 2 - Entertainment: Video Games
 Knowledge Quiz
 Q: Who sang the theme song for the TV show 'Rawhide'?
 A: Frankie Laine - Entertainment: Television
+Knowledge Quiz
+Q: In which Mario game did the Mega Mushroom make its debut?
+A: Mario Party 4 - Entertainment: Video Games
