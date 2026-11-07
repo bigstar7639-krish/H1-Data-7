@@ -1147,3 +1147,6 @@ A: Reaper - Entertainment: Music
 Knowledge Quiz
 Q: What does the computer software acronym JVM stand for?
 A: Java Virtual Machine - Science: Computers
+Knowledge Quiz
+Q: Which Super Mario video game when they introduce Bowser Jr. for the first time?
+A: Super Mario Sunshine - Entertainment: Video Games
