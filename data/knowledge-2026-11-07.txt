@@ -805,3 +805,6 @@ A: Frankie Laine - Entertainment: Television
 Knowledge Quiz
 Q: In which Mario game did the Mega Mushroom make its debut?
 A: Mario Party 4 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which king was killed at the Battle of Bosworth Field in 1485? 
+A: Richard III - History
