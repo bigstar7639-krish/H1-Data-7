@@ -1647,3 +1647,4 @@ Vocab 2632 - Kindness = Anbu
 Pazhamozhi 2633 - Porumai - Perumai Tharum!
 Quote 2634 - Daily try pannu - Jeyichiduva! - Aira
 Kavithai 2635 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
+Knowledge 2636 - AI - AI - Data paathu - Pattern!
