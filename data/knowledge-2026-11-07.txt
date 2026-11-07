@@ -960,3 +960,6 @@ A: 8 - Entertainment: Video Games
 Knowledge Quiz
 Q: In what Homestuck Update was [S] Game Over released?
 A: October 25th, 2014 - Entertainment: Comics
+Knowledge Quiz
+Q: Which weapon that was cut from the game "Half Life 2" was going to replace the crowbar?
+A: Ice Axe - Entertainment: Video Games
