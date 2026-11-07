@@ -151,3 +151,4 @@ Movie 2319 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Recipe 2320 - Snacks - Potato + Masala - Crispy! 🍔
 Thirukkural 2321 - Anbu - Ellam Tharum! - Thirukkural
 Q 2322 - Ne Sun la eppadi improve panna mudiyum?
+Smart Q 2323 - Courage la eppadi jeyikkarathu?
