@@ -532,3 +532,4 @@ Knowledge 2546 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Harry 
 - **சக்திகள் & நண்பர்கள்**: Hermione Granger, Ron Weasley, Albus Dumbledore, Hagrid போன்றவர்கள் அவனது நெருங்கிய நண்பர்கள்.  
 - **முக்கிய எதிரி**: Lord V
 Reading 2547 - Thirukkural - Valluvar! 📚
+Reading 2548 - 【entity-Harry Potter¦canonical_name=Harry Potter】! 📚
