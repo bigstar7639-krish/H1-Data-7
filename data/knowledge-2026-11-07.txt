@@ -799,3 +799,6 @@ A: Mr. Bean in Room 426 - Entertainment: Television
 Knowledge Quiz
 Q: Which souls game was not directed by Hidetaka Miyazaki?
 A: Dark Souls 2 - Entertainment: Video Games
+Knowledge Quiz
+Q: Who sang the theme song for the TV show 'Rawhide'?
+A: Frankie Laine - Entertainment: Television
