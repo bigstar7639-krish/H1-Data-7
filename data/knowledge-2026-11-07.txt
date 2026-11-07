@@ -933,3 +933,6 @@ A: Michigan - Geography
 Knowledge Quiz
 Q: Which NBA player won Most Valuable Player for the 1999-2000 season?
 A: Shaquille O'Neal - Sports
+Knowledge Quiz
+Q: What are the base station trackers used for the HTC Vive called?
+A: Lighthouse - Science: Gadgets
