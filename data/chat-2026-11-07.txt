@@ -1082,3 +1082,4 @@ Knowledge 2287 - Thirukkural - Hey! I’m Aira – your friendly *Tamil‑Tang
 |--------------|------------|---------------|
 | **Aram**     | அறம்        | Virtue / Ethics |
 | **Porul**    | பொருள்      | Wealth / Poli
+Health 2288 - Health Tip: 7 mani neram thoongunga!
