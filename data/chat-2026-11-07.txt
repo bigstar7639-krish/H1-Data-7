@@ -494,3 +494,4 @@ Aira: Paravalla! Aira irukka - Pesu! ❤
 Smart Q 2519 - AI la eppadi jeyikkarathu?
 Smart Q 2520 - Tree la eppadi jeyikkarathu?
 Talk 2521 - World History pathi pesalama? Sollu! 💬
+Talk 2522 - Future pathi pesalama? Sollu! 💬
