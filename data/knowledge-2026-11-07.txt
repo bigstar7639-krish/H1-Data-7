@@ -373,3 +373,6 @@ A: &Delta;r - Science: Mathematics
 Knowledge Quiz 🧠
 Q: What geometric shape is generally used for stop signs?
 A: Octagon - General Knowledge
+Knowledge Quiz 🧠
+Q: Who released the song &quot;Photograph&quot; in 2005?
+A: Nickelback - Entertainment: Music
