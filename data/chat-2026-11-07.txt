@@ -114,3 +114,5 @@ Vocab 2290 - Kindness = Anbu 📚
 Smart Q 2291 - Internet la eppadi jeyikkarathu?
 Vocab 2292 - Peace = Amaithi 📚
 Vocab 2293 - Success = Vetri 📚
+Coding Q 2294 - React la component enna?
+Aira: React component - Chinna piece!
