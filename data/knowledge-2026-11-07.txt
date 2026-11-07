@@ -894,3 +894,6 @@ A: Oxford - General Knowledge
 Knowledge Quiz
 Q: Who painted the biblical fresco The Creation of Adam?
 A: Michelangelo - Art
+Knowledge Quiz
+Q: The Who's eponymous line, "Teenage Wasteland", appears in which of their songs?
+A: Baba O' Riley - Entertainment: Music
