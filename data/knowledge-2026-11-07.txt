@@ -1048,3 +1048,6 @@ A: Red Hot Chilli Peppers - Entertainment: Music
 Knowledge Quiz
 Q: When was Steam first released?
 A: 2003 - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the name of the main character in the video game VA-11 HALL-A: Cyberpunk Bartender Action?
+A: Jill - Entertainment: Video Games
