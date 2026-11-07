@@ -1788,3 +1788,4 @@ Vocab 2707 - Success = Vetri
 Health 2708 - Health Tip: Daily 30 min walk ponga!
 Motivation 2709
 Paravalla! Rest edu - Thirumba try pannu!
+Recipe 2710 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
