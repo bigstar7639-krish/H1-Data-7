@@ -903,3 +903,6 @@ A: Mt. Everest - Geography
 Knowledge Quiz
 Q: What does CPU stand for?
 A: Central Processing Unit - Science: Computers
+Knowledge Quiz
+Q: In "Overwatch", which hero is able to wallride?
+A: Lucio - Entertainment: Video Games
