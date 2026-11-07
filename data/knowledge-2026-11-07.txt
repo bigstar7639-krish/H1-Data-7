@@ -674,3 +674,6 @@ A: 1,776 ft - Geography
 Knowledge Quiz 🧠
 Q: Who succeded Josef Stalin as the leader of the Soviet Union?
 A: Nikita Krushchev - History
+Knowledge Quiz 🧠
+Q: Which of the following Japanese islands is the biggest?
+A: Honshu - Geography
