@@ -1118,3 +1118,5 @@ Quote 2314 - Daily try pannu - Jeyichiduva! - Aira
 Motivation 2315
 Paravalla! Rest edu - Thirumba try pannu!
 Fact 101 - Tamil - 2000+ varusha mozhi!
+Coding Q 2317 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
