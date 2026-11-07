@@ -1239,3 +1239,6 @@ Economics என்பது **scarcity** (மீதமுள்ள வளங்
 |---------|------------------------|
 | **Scarcity** | வளங்கள் எல்லாமே **limited**, ஆனா தேவைகள் infinite. |
 | **Opportunity Cost** | ஒரு தேர்வு செய்யும் போது விடும் “அடுத்த நல்லது”. Example: பசிலில் ஒரு மணி நே
+Knowledge Quiz
+Q: Counting the Blood and Wine DLC, how many Hero Cards are there in total in The Witcher 3?
+A: 25 - Entertainment: Video Games
