@@ -55,3 +55,6 @@ A: September 23rd, 1889 - General Knowledge
 Auto Quiz - Business 🧠
 Q: In Dota 2, what is Earthshaker's real name?
 A: Raigor Stonehoof - Entertainment: Video Games
+Auto Quiz - Money 🧠
+Q: What does the DOS in Microsoft's first operating system "MS-DOS" stand for?
+A: Disk Operating System - Science: Computers
