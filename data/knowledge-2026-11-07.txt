@@ -808,3 +808,16 @@ A: Mario Party 4 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which king was killed at the Battle of Bosworth Field in 1485? 
 A: Richard III - History
+Knowledge 2248 - DNA - Hey buddy! 🧬 **DNA‑ஐப் பற்றி பேசலாம்** – “DeoxyriboNucleic Acid”, ஆனா நம்ம வாழ்க்கையின் **blueprint** மாதிரி இது.  
+
+---
+
+### 1️⃣ DNA என்ன?
+- **Structure**: இரட்டையக் கயிறு (double‑helix) – இரண்டு நீண்ட பைஸ்க் (strand)‑கள், ஒவ்வொன்றும் *nucleotides* (அட்ரோபா) கொண்டு ஆனது.  
+- **Nucleotides** = **Sugar (deoxyribose) + Phosphate + Base**.  
+- **Bases**: A (Adenine), T (Thymine), G (Guanine), C (Cytosine). A↔T, G↔C என்ற விதி (complementary pairing) மூலம் “முடிவில்” (ladder) ஒன்றாக சேரும்.
+
+### 2️⃣ DNA‑ன் முக்கிய பணி
+- **Genetic information storage** – ஒவ்வொரு உயிரினத்தின் *அம்சங்கள்* (eye colour, height, enzyme functions) அனைத்தும் DNA‑யில் encoded.  
+- **Replication** – செல்கள் புது பிள்ளை (cell division) ஆகும் போது, DNA copy‑ஆக duplicate ஆகும். Enzyme DNA polymerase இதை செய்யும்.  
+- **Tran
