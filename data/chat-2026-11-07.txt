@@ -1804,3 +1804,4 @@ Talk 2720 - River pathi pesalama? Sollu!
 Talk 2721 - CSS pathi pesalama? Sollu!
 Coding Q 2722 - App eppadi pannurathu?
 Aira: App - Idea - Design - Code!
+Q 2723 - Lonely pathi oru story kekkura?
