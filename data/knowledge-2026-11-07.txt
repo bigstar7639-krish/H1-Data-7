@@ -1069,3 +1069,6 @@ A: Baba O' Riley - Entertainment: Music
 Knowledge Quiz
 Q: What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?
 A: Seinfeld - Entertainment: Television
+Knowledge Quiz
+Q: This movie contains the quote, "I love the smell of napalm in the morning!"
+A: Apocalypse Now - Entertainment: Film
