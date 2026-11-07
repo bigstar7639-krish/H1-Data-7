@@ -1377,3 +1377,6 @@ A: Shi No Numa - Entertainment: Video Games
 Knowledge Quiz
 Q: What was the name of the device used by Scarecrow in Batman: Arkham Knight to cover Gotham in fear gas?
 A: The Cloudburst - Entertainment: Video Games
+Knowledge Quiz
+Q: What was the total length of the Titanic?
+A: 882 ft | 268.8 m - History
