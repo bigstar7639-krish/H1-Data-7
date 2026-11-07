@@ -18,3 +18,4 @@ Game 2299 - Coin Toss - Ne Toss nu Sollu!
 Game 2308 - Dice - Ne Dice nu Sollu!
 Game 2312 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 2337 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Game 2348 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
