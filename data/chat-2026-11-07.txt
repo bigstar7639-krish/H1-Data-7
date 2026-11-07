@@ -1847,3 +1847,5 @@ Reading 2743 - Atomic Habits!
 Health 2744 - Health Tip: Fruits daily saapdunga!
 Q 2745 - Unakku Meditation pathi enna theriyum?
 Thirukkural 2746 - Porumai - Periya Sakthi! - Thirukkural
+Coding Q 2747 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
