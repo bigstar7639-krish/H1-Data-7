@@ -1613,3 +1613,5 @@ Talk 2606 - Movie pathi pesalama? Sollu!
 Coding Q 2607 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Pazhamozhi 2608 - Sontha Kaal la Ninnu - Jeyippa!
+World Story 2609
+Oru chinna tokyo la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
