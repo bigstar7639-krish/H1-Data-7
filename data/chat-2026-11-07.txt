@@ -298,3 +298,4 @@ Vocab 2399 - Peace = Amaithi 📚
 Pazhamozhi 2400 - Porumai - Perumai Tharum!
 Quote 2401 - Daily try pannu - Jeyichiduva! - Aira
 Knowledge 2402 - Politics - Politics pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Knowledge 2403 - Law - Law pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
