@@ -1049,3 +1049,4 @@ Q 2266 - Unakku Einstein pathi enna theriyum?
 Pazhamozhi 2267 - Porumai - Perumai Tharum!
 Recipe 2268 - Snacks - Potato + Masala - Crispy!
 Quote 2269 - Daily try pannu - Jeyichiduva! - Aira
+Smart Q 2270 - Flower la eppadi jeyikkarathu?
