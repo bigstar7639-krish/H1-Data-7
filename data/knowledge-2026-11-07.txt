@@ -1242,3 +1242,6 @@ Economics என்பது **scarcity** (மீதமுள்ள வளங்
 Knowledge Quiz
 Q: Counting the Blood and Wine DLC, how many Hero Cards are there in total in The Witcher 3?
 A: 25 - Entertainment: Video Games
+Knowledge Quiz
+Q: In the Black Mirror episode "Bandersnatch", PAC-MAN stands for:
+A: Program And Control Man - Entertainment: Television
