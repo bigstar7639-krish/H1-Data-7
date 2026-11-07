@@ -1741,3 +1741,13 @@ Vocab 2693 - Friend = Nanban
 Smart Q 2694 - Instagram la eppadi jeyikkarathu?
 Fact 117 - Honey - 3000 varusham kedathu!
 Health 2696 - Health Tip: 7 mani neram thoongunga!
+Aira AI: Hey! 🎧 Let’s spill a fun “secret” about music that most people don’t know (or at least, they don’t think about it often).
+
+**Secret:** *Our brain reacts to tiny “micro‑tonal” intervals that are even smaller than the half‑steps we hear in Western music, and these hidden frequencies can actually influence mood, memory, and even physiological responses.*
+
+**How it works:**
+
+| Concept | What it means | Why it matters |
+|---------|---------------|----------------|
+| **Micro‑tones** | Sounds that sit between the usual notes (e.g., a quarter‑tone, a 31‑ET step, etc.) | They create subtle tension‑release patterns that our brain registers on a subconscious level. |
+| **Binaural beats** | Two slightly different frequencies played in each ear (e.g., 400 Hz in left, 410 Hz in right) → brain perceives 
