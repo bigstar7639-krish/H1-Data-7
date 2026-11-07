@@ -1584,3 +1584,4 @@ Q 2593 - Ne Game la eppadi improve panna mudiyum?
 Emotion Q 2594 - angry?
 Aira: Kovam ah? Deep breath edu!
 Pazhamozhi 2595 - Sontha Kaal la Ninnu - Jeyippa!
+Recipe 2596 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
