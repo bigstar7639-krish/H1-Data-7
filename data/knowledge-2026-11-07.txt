@@ -1126,3 +1126,6 @@ A: 7 - Entertainment: Video Games
 Knowledge Quiz
 Q: An organism described as "heliotropic" has a tendancy to move towards which of these things?
 A: Light - Science & Nature
+Knowledge Quiz
+Q: What studio animated Fullmetal Alchemist?
+A: Bones - Entertainment: Japanese Anime & Manga
