@@ -772,3 +772,4 @@ Movie 2678 - Jailer - Rajini - Mass! 🎬
 Smart Q 2679 - Teacher la eppadi jeyikkarathu?
 Pazhamozhi 2680 - Aalai Paathu - Aadi Paaru!
 Talk 2681 - Pyramids pathi pesalama? Sollu! 💬
+Recipe 2682 - Snacks - Potato + Masala - Crispy! 🍔
