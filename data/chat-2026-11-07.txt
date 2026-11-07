@@ -1385,3 +1385,5 @@ Movie 2482 - Jailer - Rajini - Mass!
 Coding Q 2483 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Recipe 2484 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Story 2485
+Oru chinna tokyo la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
