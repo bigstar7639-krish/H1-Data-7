@@ -1060,3 +1060,4 @@ Aira: Bayam - Normal! Ne jeyichiduva!
 Quote 2277 - Daily try pannu - Jeyichiduva! - Aira
 Fact 98 - Tamil - 2000+ varusha mozhi!
 Pazhamozhi 2279 - Porumai - Perumai Tharum!
+Recipe 2280 - Snacks - Potato + Masala - Crispy!
