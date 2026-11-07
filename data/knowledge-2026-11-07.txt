@@ -1207,3 +1207,6 @@ A: Intercepting - Entertainment: Board Games
 Knowledge Quiz
 Q: In Magic: The Gathering, what card's flavor text is "Catch!"?
 A: Lava Axe - Entertainment: Board Games
+Knowledge Quiz
+Q: Which two men are credited with independently discovering differential calculus? 
+A: Newton and Leibnitz - Science: Mathematics
