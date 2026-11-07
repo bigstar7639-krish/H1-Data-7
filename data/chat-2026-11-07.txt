@@ -1785,3 +1785,4 @@ Oru chinna madurai la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! A
 Story 2706
 Oru chinna world la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Vocab 2707 - Success = Vetri
+Health 2708 - Health Tip: Daily 30 min walk ponga!
