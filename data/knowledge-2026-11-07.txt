@@ -1102,3 +1102,6 @@ A: Rad Mobile - Entertainment: Video Games
 Knowledge Quiz
 Q: Which soccer player is featured on the cover of EA Sport's FIFA 18?
 A: Cristiano Ronaldo - Entertainment: Video Games
+Knowledge Quiz
+Q: Who voiced the character Joel in "The Last of Us"?
+A: Troy Baker - Entertainment: Video Games
