@@ -22,3 +22,4 @@ Game 2348 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Game 2367 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 2382 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 2405 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
+Game 2472 - Coin Toss - Ne Toss nu Sollu!
