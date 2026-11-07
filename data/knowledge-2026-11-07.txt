@@ -1051,3 +1051,6 @@ A: 2003 - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the name of the main character in the video game VA-11 HALL-A: Cyberpunk Bartender Action?
 A: Jill - Entertainment: Video Games
+Knowledge Quiz
+Q: Which restaurant's mascot is a clown?
+A: McDonald's - General Knowledge
