@@ -727,3 +727,5 @@ Vocab 2654 - Love = Kadhal 📚
 Quote 2655 - Daily try pannu - Jeyichiduva! - Aira
 Emotion Q 2656 - happy?
 Aira: Super! Happy ah irukka! 😊
+Story 2657
+Oru chinna chennai la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
