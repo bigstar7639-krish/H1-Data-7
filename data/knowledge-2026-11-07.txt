@@ -1090,3 +1090,6 @@ A: Portal 2 - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the unit of currency in Laos?
 A: Kip - General Knowledge
+Knowledge Quiz
+Q: Half-Life by Valve uses the GoldSrc game engine, which is a highly modified version of what engine?
+A: Quake Engine - Entertainment: Video Games
