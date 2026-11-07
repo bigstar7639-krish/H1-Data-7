@@ -1453,3 +1453,6 @@ A: Dave Mustaine - Entertainment: Music
 Knowledge Quiz
 Q: What was the callsign of Commander William Adama in Battlestar Galactica (2004)?
 A: Husker - Entertainment: Television
+Knowledge Quiz
+Q: According to Sherlock Holmes, "If you eliminate the impossible, whatever remains, however improbable, must be the..."
+A: Truth - General Knowledge
