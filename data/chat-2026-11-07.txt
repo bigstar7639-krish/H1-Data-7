@@ -1851,3 +1851,4 @@ Coding Q 2747 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Emotion Q 2748 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
+Recipe 2749 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
