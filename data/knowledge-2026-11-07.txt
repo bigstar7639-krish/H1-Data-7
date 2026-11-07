@@ -1398,3 +1398,6 @@ A: Open Shortest Path First - Science: Computers
 Knowledge Quiz
 Q: In which game did the character "Mario" make his first appearance?
 A: Donkey Kong - Entertainment: Video Games
+Knowledge Quiz
+Q: What part of the brain takes its name from the Greek for seahorse?
+A: Hippocampus - Science & Nature
