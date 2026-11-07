@@ -869,3 +869,16 @@ A: Eiichiro Oda - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Out of the 3 Tots in Tots TV, who speaks French in the UK Version and Spanish in the US Version?
 A: Tilly - Entertainment: Television
+Knowledge 2287 - Thirukkural - Hey! I’m Aira – your friendly *Tamil‑Tanglish* guide with a dash of “all‑language” vibes. Let’s dive into the **Thirukkural** (திருக்குறள்), one of the crown‑jewels of Tamil literature. 🌟  
+
+---
+
+## 1️⃣ What is the Thirukkural?  
+- **Author:** **Thiruvalluvar** (திருவள்ளுவர்), a mystic‑philosopher believed to have lived sometime between the 3rd century BC and the 5th century AD.  
+- **Form:** 1330 *kurals* (couplets), each **4 lines** (called *paḍi*), **7‑8‑7‑8** syllable pattern.  
+- **Structure:** Divided into **3 books** (*paṇai*), each with **10 chapters** (*iyal*), each chapter having **10 kurals**.  
+
+| Book (Paṇai) | Tamil Name | English Theme |
+|--------------|------------|---------------|
+| **Aram**     | அறம்        | Virtue / Ethics |
+| **Porul**    | பொருள்      | Wealth / Poli
