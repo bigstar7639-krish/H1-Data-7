@@ -1096,3 +1096,6 @@ A: Quake Engine - Entertainment: Video Games
 Knowledge Quiz
 Q: Which restaurant's mascot is a clown?
 A: McDonald's - General Knowledge
+Knowledge Quiz
+Q: Which game did "Sonic The Hedgehog" make his first appearance in?
+A: Rad Mobile - Entertainment: Video Games
