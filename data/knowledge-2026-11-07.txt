@@ -572,3 +572,6 @@ Knowledge 2634 - Dream - Hey buddy! Let’s chat about **dreams** – “swapn
 Knowledge Quiz 🧠
 Q: What was Marilyn Monroe`s character&#039;s first name in the film &quot;Some Like It Hot&quot;?
 A: Sugar - Entertainment: Film
+Knowledge Quiz 🧠
+Q: In &quot;Overwatch&quot;, how much health does Roadhog&#039;s &quot;Take a Breather&quot; ability recover?
+A: 300 - Entertainment: Video Games
