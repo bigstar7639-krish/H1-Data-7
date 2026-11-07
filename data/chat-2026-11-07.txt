@@ -1373,3 +1373,4 @@ Game 2472 - Coin Toss - Ne Toss nu Sollu!
 Vocab 2473 - Happy = Santhosham
 Story 2474
 Oru forest la oru farmer irunthan! Daily try pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
+Vocab 2475 - Happy = Santhosham
