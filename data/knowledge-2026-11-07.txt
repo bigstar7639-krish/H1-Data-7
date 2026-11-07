@@ -70,3 +70,6 @@ A: Professor Charles the Hedgehog - Entertainment: Comics
 Knowledge Quiz 🧠
 Q: In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
 A: print(&quot;Hello World&quot;) - Science: Computers
+Knowledge Quiz 🧠
+Q: Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?
+A: Nikita Khrushchev - Politics
