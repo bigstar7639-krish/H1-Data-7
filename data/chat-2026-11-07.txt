@@ -36,3 +36,4 @@ Movie 2252 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 World Story 2253
 Oru chinna mountain la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Fact 92 - Tamil - 2000+ varusha mozhi!
+Vocab 2255 - Friend = Nanban 📚
