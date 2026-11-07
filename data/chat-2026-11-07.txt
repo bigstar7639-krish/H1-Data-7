@@ -657,3 +657,5 @@ Joke 2611
 Why bike sad? Petrol illa!
 Talk 2612 - Meditation pathi pesalama? Sollu! 💬
 Movie 2613 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
+Story 2614
+Oru chinna new york la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
