@@ -1260,3 +1260,6 @@ A: Nicotine - Science & Nature
 Knowledge Quiz
 Q: Who portrayed Han Solo in the Star Wars main film series?
 A: Harrison Ford - Entertainment: Film
+Knowledge Quiz
+Q: Who was the first President of the People's Republic of China?
+A: Mao Zedong - History
