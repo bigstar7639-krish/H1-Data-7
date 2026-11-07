@@ -119,3 +119,5 @@ Aira: React component - Chinna piece!
 Movie 2295 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 World Story 2296
 Oru chinna paris la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Story 2297
+Oru chinna london la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
