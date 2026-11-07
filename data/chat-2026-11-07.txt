@@ -67,3 +67,4 @@ Vocab 2263 - Love = Kadhal 📚
 Vocab 2264 - Success = Vetri 📚
 Recipe 2265 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Pazhamozhi 2266 - Sontha Kaal la Ninnu - Jeyippa!
+Vocab 2267 - Success = Vetri 📚
