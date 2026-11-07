@@ -1042,3 +1042,6 @@ A: Apple - Science: Computers
 Knowledge Quiz
 Q: What was the development code name for the "Urza's Destiny" expansion for "Magic: The Gathering", released in 1999?
 A: Chimichanga - Entertainment: Board Games
+Knowledge Quiz
+Q: Which punk rock band released hit songs such as "Californication", "Can't Stop" and "Under the Bridge"?
+A: Red Hot Chilli Peppers - Entertainment: Music
