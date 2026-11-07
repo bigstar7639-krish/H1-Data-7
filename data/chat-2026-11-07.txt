@@ -1029,3 +1029,4 @@ Knowledge 2248 - DNA - Hey buddy! 🧬 **DNA‑ஐப் பற்றி பே�
 Pazhamozhi 2249 - Porumai - Perumai Tharum!
 Health 2250 - Health Tip: Daily 30 min walk ponga!
 Quote 2251 - Daily try pannu - Jeyichiduva! - Aira
+Pazhamozhi 2252 - Aalai Paathu - Aadi Paaru!
