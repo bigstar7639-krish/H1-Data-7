@@ -381,3 +381,4 @@ Oru chinna madurai la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aa
 Smart Q 2445 - Mountain la eppadi jeyikkarathu?
 Smart Q 2446 - Movie la eppadi jeyikkarathu?
 Game 2447 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
+Recipe 2448 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
