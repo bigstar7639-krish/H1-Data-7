@@ -452,3 +452,4 @@ Vocab 2495 - Peace = Amaithi 📚
 Thirukkural 2496 - Porumai - Periya Sakthi! - Thirukkural
 Emotion Q 2497 - excited?
 Aira: Excited ah! Sollu! 🎉
+Reading 2498 - Python Crash Course! 📚
