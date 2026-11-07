@@ -1027,3 +1027,6 @@ Knowledge Quiz
 Q: According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:
 A: A' + B' - Science: Computers
 Knowledge 2389 - India - India pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Knowledge Quiz
+Q: What was the FIRST Valve game to have VR?
+A: The Lab - Entertainment: Video Games
