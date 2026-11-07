@@ -614,3 +614,6 @@ A: Feiji - General Knowledge
 Knowledge Quiz 🧠
 Q: How many sonatas did Ludwig van Beethoven write?
 A: 32 - History
+Knowledge Quiz 🧠
+Q: What is the unit of electrical capacitance?
+A: Farad - Science &amp; Nature
