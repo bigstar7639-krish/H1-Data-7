@@ -1162,3 +1162,6 @@ A: Labrador Retriever - Entertainment: Film
 Knowledge Quiz
 Q: Which singer was featured in Jack Ü (Skrillex & Diplo)'s 2015 song 'Where Are Ü Now'?
 A: Justin Bieber - Entertainment: Music
+Knowledge Quiz
+Q: Who was the first Legendary Pokemon to be defeated by Ash Ketchum in the Pokémon anime?
+A: Articuno - Entertainment: Japanese Anime & Manga
