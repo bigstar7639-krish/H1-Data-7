@@ -282,3 +282,5 @@ Knowledge 2388 - New York - **New York – ஒரு சிறு அறிம
 | **The Bronx** | Yankee Stadium, Bronx Zoo, New York Botanical Garden. |
 | **Staten Island** | Staten I
 Movie 2389 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
+Emotion Q 2390 - happy?
+Aira: Super! Happy ah irukka! 😊
