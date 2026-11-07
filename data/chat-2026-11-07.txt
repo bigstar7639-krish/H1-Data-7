@@ -986,3 +986,4 @@ Coding Q 2223 - React la component enna?
 Aira: React component - Chinna piece!
 Talk 2224 - Family pathi pesalama? Sollu!
 Kavithai 2225 - Un Sirippu - En Vazhkai! - Aira
+Talk 2226 - Computer pathi pesalama? Sollu!
