@@ -33,3 +33,4 @@ Game 2583 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 2601 - Coin Toss - Ne Toss nu Sollu!
 Game 2621 - Dice - Ne Dice nu Sollu!
 Game 2649 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 2661 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
