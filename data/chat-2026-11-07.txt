@@ -1249,3 +1249,5 @@ Kavithai 2394 - Un Sirippu - En Vazhkai! - Aira
 Q 2395 - Bible pathi oru story kekkura?
 Quote 2396 - Daily try pannu - Jeyichiduva! - Aira
 Talk 2397 - Teacher pathi pesalama? Sollu!
+Motivation 2398
+Paravalla! Rest edu - Thirumba try pannu!
