@@ -1312,3 +1312,6 @@ A: Dead Sea - Geography
 Knowledge Quiz
 Q: In what year did Microsoft release the original Xbox console in North America?
 A: 2001 - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the largest planet in the Solar System?
+A: Jupiter - Science & Nature
