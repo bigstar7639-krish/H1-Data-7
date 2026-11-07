@@ -1293,3 +1293,6 @@ A: House - Entertainment: Board Games
 Knowledge Quiz
 Q: Which small country is located between the borders of France and Spain?
 A: Andorra - Geography
+Knowledge Quiz
+Q: The original mascot of the popular Nintendo game, "Splatoon" was going to be...
+A: Mario - Entertainment: Video Games
