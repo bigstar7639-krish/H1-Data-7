@@ -1417,3 +1417,6 @@ Knowledge 2703 - Ponniyin Selvan - Ponniyin Selvan pathi sollu - Nalla question!
 Knowledge Quiz
 Q: In Animal Crossing: New Leaf, which of these paintings from Redd's Art Gallery is always genuine?
 A: Warm Painting - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following Pokémon games released first?
+A: Pokémon Crystal - Entertainment: Video Games
