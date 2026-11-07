@@ -1135,3 +1135,6 @@ A: October 10th, 2010 - Entertainment: Television
 Knowledge Quiz
 Q: How many studio albums have the duo Daft Punk released?
 A: 4 - Entertainment: Music
+Knowledge Quiz
+Q: In the video game "Team Fortress 2", which class is able to double jump?
+A: Scout - Entertainment: Video Games
