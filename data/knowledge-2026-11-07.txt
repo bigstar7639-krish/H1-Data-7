@@ -1447,3 +1447,6 @@ A: 1957 - Entertainment: Film
 Knowledge Quiz
 Q: Which of these artists has NOT been a member of dancehall group Major Lazer?
 A: Skrillex - Entertainment: Music
+Knowledge Quiz
+Q: What is the frontman's name of the metal band Megadeth?
+A: Dave Mustaine - Entertainment: Music
