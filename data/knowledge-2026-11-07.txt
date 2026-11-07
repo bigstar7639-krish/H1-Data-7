@@ -1309,3 +1309,6 @@ A: 7 - Entertainment: Video Games
 Knowledge Quiz
 Q: Into which basin does the Jordan River flow into?
 A: Dead Sea - Geography
+Knowledge Quiz
+Q: In what year did Microsoft release the original Xbox console in North America?
+A: 2001 - Entertainment: Video Games
