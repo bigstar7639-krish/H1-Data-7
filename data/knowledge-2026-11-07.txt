@@ -746,3 +746,6 @@ A: Haley Joel Osment - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: In Star Trek, what is the name of Spock&#039;s father?
 A: Sarek - Entertainment: Television
+Knowledge Quiz 🧠
+Q: What did the name of the Tor Anonymity Network orignially stand for?
+A: The Onion Router - Science: Computers
