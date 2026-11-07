@@ -1284,3 +1284,6 @@ A: Orendi - Entertainment: Video Games
 Knowledge Quiz
 Q: In the game Pokémon Conquest, how many kingdoms make up the region of Ransei?
 A: 17 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which was the first M-rated video game developed by Squaresoft/Square Enix?
+A: Parasite Eve - Entertainment: Video Games
