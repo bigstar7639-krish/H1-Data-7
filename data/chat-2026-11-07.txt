@@ -1063,3 +1063,5 @@ Pazhamozhi 2279 - Porumai - Perumai Tharum!
 Recipe 2280 - Snacks - Potato + Masala - Crispy!
 Story 2281
 Oru chinna city la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+World Story 2282
+Oru delhi la oru singer irunthan! Daily pray pannaan pannan! Oru naal magic kedaichuchu! Life maariduchu!
