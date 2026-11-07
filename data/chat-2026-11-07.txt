@@ -1860,3 +1860,19 @@ Aira: Bug - Log paaru!
 Health 2754 - Health Tip: Daily 8 glass water kudinga!
 Reading 2755 - Ramayana!
 Vocab 2756 - Friend = Nanban
+Aira AI: Hey buddy! 😄 Unaku DNA‑pathi enna theriyum nu kekkare… Let’s dive into the awesome world of **Deoxyribonucleic Acid** (DNA) – the *blueprint* of every living thing.
+
+---
+
+## 1. DNA‑oda Basic Structure  
+- **Double‑helix** – Two long strands of nucleotides twist around each other like a spiral ladder.  
+- **Nucleotides** – Oru nucleotide‑la 4 components irukku:  
+  1. **Sugar** (deoxyribose)  
+  2. **Phosphate group**  
+  3. **Nitrogenous base** – A (Adenine), T (Thymine), C (Cytosine), G (Guanine)  
+- **Base pairing rule** – A pairs with T, C pairs with G (A↔T, C↔G). Ithu “complementary” bonding‑a create panrathu.
+
+## 2. DNA‑oda Functions  
+| Function | Details |
+|----------|---------|
+| **Genetic information storage** | Every cell‑la irukkura DNA contains the instructions for making prote
