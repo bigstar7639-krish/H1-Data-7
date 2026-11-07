@@ -1192,3 +1192,6 @@ A: 1999 - Entertainment: Music
 Knowledge Quiz
 Q: What was the first recorded object to ever reach space?
 A: Bumper-WAC - History
+Knowledge Quiz
+Q: What country was the Trabant 601 manufactured in?
+A: East Germany - Vehicles
