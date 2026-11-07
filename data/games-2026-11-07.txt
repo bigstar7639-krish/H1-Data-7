@@ -13,3 +13,4 @@ Game 2625 - Coin Toss - Ne Toss nu Sollu! 🎮
 Game 2686 - Dice - Ne Dice nu Sollu! 🎮
 Game 2704 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Game 2241 - Quiz: Python eppo uruvaachu? Answer: 1991!
+Game 2292 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
