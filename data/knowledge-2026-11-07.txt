@@ -1036,3 +1036,6 @@ A: Rik Mayall - Entertainment: Television
 Knowledge Quiz
 Q: Which game won the "Games for Impact" award in The Game Awards 2015?
 A: Life is Strange - Entertainment: Video Games
+Knowledge Quiz
+Q: Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?
+A: Apple - Science: Computers
