@@ -1359,3 +1359,4 @@ Oru sea la oru artist irunthan! Daily try pannan pannan! Oru naal book kedaichuc
 Coding Q 2463 - App eppadi pannurathu?
 Aira: App - Idea - Design - Code!
 Quote 2464 - Daily try pannu - Jeyichiduva! - Aira
+Reading 2465 - Python Crash Course!
