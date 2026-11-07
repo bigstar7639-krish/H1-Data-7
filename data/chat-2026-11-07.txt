@@ -202,3 +202,5 @@ Recipe 2352 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Pazhamozhi 2353 - Sontha Kaal la Ninnu - Jeyippa!
 Joke 2354
 Why bike sad? Petrol illa!
+Coding Q 2355 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
