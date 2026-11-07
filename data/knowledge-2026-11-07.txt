@@ -1026,3 +1026,4 @@ A: 1504 - Art
 Knowledge Quiz
 Q: According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:
 A: A' + B' - Science: Computers
+Knowledge 2389 - India - India pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
