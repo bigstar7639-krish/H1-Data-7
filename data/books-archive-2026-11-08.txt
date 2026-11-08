@@ -188,3 +188,7 @@ Lion - bwb_S0-EKQ-267_13 - Funk & Wagnalls Standard Reference Encyclopedia Henry
 Lion - bwb_KU-566-140 - study-aid series notes on george bernard shaws androcles and the lion
 Horse - myhorsesays0000unse_t0k6 - my horse says
 Horse - bwb_S0-BIX-602 - The QUARTER HORSE BREEDER
+Bike - bwb_S0-BCA-106 - Hit the Bike Trail
+Bike - bikehealthyhowcy0000andr - Bike healthy : how cycling will help you look good, feel good and quite possibly live longer
+Car - fastcar0000murp - Fast car
+Car - gov.uscourts.cacd.1039334 - Rigoberto Lopez v. Rony's Car Pros Sepulveda, LLC
