@@ -158,3 +158,7 @@ Pizza - pizzamorethan60r0000morg - Pizza : more than 60 recipes for delicious ho
 Pizza - gov.uscourts.cand.382613 - Johnson v. New York Pizza, Inc.
 Burger - bwb_T4-AJZ-274 - The Ham Burger Cookbook
 Burger - elviskingburger0000jott - The Elvis King-Burger
+Chocolate - faithgriefpassch0000wall - Faith, Grief and Pass the Chocolate Pudding
+Chocolate - chocolatewar0000robe - The chocolate war
+Fruit - bwb_T3-BSD-639 - so good with fruit
+Fruit - bwb_KU-355-300 - The Fruit garden displayed
