@@ -231,3 +231,6 @@ Nature - portraitsdaprsna0000jane - Portraits d'après nature
 Cat - trackofcat0000walt - the track of the cat
 Cat - catnamedzooby0000sher - A Cat Named Zooby
 Dog - isbn_9780780780644 - A Dog Named Sam
+Dog - whatyourdogwants0000wild - What your dog wants
+Food - lunchboxfood0000shar_x1h2 - Lunch Box Food
+Food - thomasfoodbevera0000rich - Thomas Food & Beverage Market Place 2006 (Thomas Food and Beverage Market Place)
