@@ -216,3 +216,7 @@ Poetry - bwb_C0-BNY-939 - British Poetry and Prose
 Writing - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource Book for K-12 Teachers, Second Edition
 Writing - bwb_O8-ABL-216 - Adventures in Medical Writing
 Poetry - bwb_Y0-CRJ-478 - An Anthology of French Poetry
+Singing - bwb_Y0-AGF-288 - Singing Teen-Agers Songs for the Youth
+Singing - pitched-gospel-singing-soul-sample-sample-focus - Pitched Gospel Singing Soul Sample Sample Focus
+Dancing - oapen-20.500.12657-79419 - Chapter 4.9 A chorus of dancing voices curated by Katye Coe
+Dancing - bwb_KV-542-049 - The dancing dodo
