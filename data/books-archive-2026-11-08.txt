@@ -206,3 +206,5 @@ Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
 Kavithai - cbfc-ecinepramaan-100030291800001735 - KADHAL KAVITHAI
 Thirukkural - thirukkuraltamilprojectmadurai_202003_991_c - Thirukkural ( Tamil) ( Project Madurai)
 Thirukkural - thirukkural-express-first-volume - Thirukkural Express First Volume
+Pazhamozhi - 14PazhamozhiThirumanam1917 - 14 Pazhamozhi Thirumanam 1917
+Pazhamozhi - PazhamozhiNanooruMoolamumUraiyum - Pazhamozhi Nanooru Moolamum Uraiyum
