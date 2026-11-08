@@ -202,3 +202,7 @@ Book - bwb_T3-BRL-524 - A Study of the Book of Acts
 Book - bwb_S0-BWV-057 - Fish and Game Cook Book
 Computer - bestofcomputerfa0003jimw - The Best of the Computer Faires volume III
 Computer - developmentofcom0000john - Development Of Computer Supplements To Calculus
+Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
+Kavithai - cbfc-ecinepramaan-100030291800001735 - KADHAL KAVITHAI
+Thirukkural - thirukkuraltamilprojectmadurai_202003_991_c - Thirukkural ( Tamil) ( Project Madurai)
+Thirukkural - thirukkural-express-first-volume - Thirukkural Express First Volume
