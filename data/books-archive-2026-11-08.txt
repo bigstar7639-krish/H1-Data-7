@@ -200,3 +200,5 @@ Phone - isometric-gradient-3d-mobile-phone-background - isometric-gradient-3d-mo
 Phone - avast-bought-your-phone-on-e-bay-recovered-what-you-thought-you-wiped - Avast Bought Your Phone On E Bay & Recovered What You Thought You 'wiped'
 Book - bwb_T3-BRL-524 - A Study of the Book of Acts
 Book - bwb_S0-BWV-057 - Fish and Game Cook Book
+Computer - bestofcomputerfa0003jimw - The Best of the Computer Faires volume III
+Computer - developmentofcom0000john - Development Of Computer Supplements To Calculus
