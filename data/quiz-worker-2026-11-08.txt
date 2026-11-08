@@ -33,3 +33,8 @@ Q+A Katha - Fitness 🧠
 Question: In CSS, which of these values CANNOT be used with the "position" property?
 
 Answer: center - Science: Computers. Itha kelvi Fitness pathi - Answer center. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Fitness pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Fitness la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Fitness oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Diet 🧠
+
+Question: About how much of their body weight in food do sea otters eat every day?
+
+Answer: 25% - Animals. Itha kelvi Diet pathi - Answer 25%. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Diet pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Diet la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Diet oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
