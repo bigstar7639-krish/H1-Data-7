@@ -21,3 +21,5 @@ Study - Unsplash - https://source.unsplash.com/800x600/?study%20exam
 Study - Openverse - https://www.flickr.com/photos/10799351@N00/5905443607
 Study - Openverse - https://www.flickr.com/photos/94085508@N00/160696504
 Study - Openverse - https://www.flickr.com/photos/10474468@N07/896010898
+Study - Unsplash - https://source.unsplash.com/800x600/?study%20exam
+Study - Wikimedia - https://commons.wikimedia.org/wiki/File:Study_of_a_Woman_Reading_a_Book_and_Study_of_a_Head_-_John_Phillip_-_ABDAG014484.188.jpg
