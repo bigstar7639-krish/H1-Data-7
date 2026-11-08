@@ -166,3 +166,7 @@ Vegetable - bwb_Y0-BWA-507 - america's best vegetable recipes, 666 ways to make 
 Vegetable - isbn_9781439239247 - Untouchable Vegetable Vendor's Child
 Summer - bwb_Y0-ABT-313 - the robin's summer
 Summer - lincolncoinclubn06n4linc - Lincoln Coin Club Newsletter: Summer 1998
+Winter - winterterm0000john - Winter Term
+Winter - bwb_S0-EGL-729 - THE WINTER IN AMERICA
+Monsoon - longrangeforecas1094556833 - Long-range forecasting of the onset of southwest monsoon winds and waves near the Horn of Africa
+Monsoon - eastmonsoon0000gepc_x3g2 - East Monsoon
