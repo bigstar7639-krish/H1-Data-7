@@ -122,3 +122,5 @@ Burger - gov.uscourts.txsd.1416935 - Gonzalez v. Burger King Corporation
 Burger - gov.uscourts.txsd.2046832 - VDPP, LLC v. Burger King Company LLC
 Chocolate - isbn_9781419644627 - The Adventures of Fudgie the Chocolate Labrador
 Chocolate - fudge-making-kit-dark-orange-chocolate-case-of-12 - Fudge Making Kit Dark Orange Chocolate Case Of 12
+Fruit - diseasesoffruitt0000vari - diseases of fruit trees
+Fruit - diseasesinsectsm0000gcch - Diseases Insects and Mites of Stone Fruit
