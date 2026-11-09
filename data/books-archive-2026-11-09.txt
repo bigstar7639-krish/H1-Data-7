@@ -132,3 +132,5 @@ Winter - bwb_S0-CDC-623_1 - A Winter in the West.
 Winter - winter_background - winter_background
 Monsoon - arxiv-1412.1041 - Influence of cosmic-ray variability on the monsoon rainfall and temperature
 Monsoon - keralalegislativeassembly.proceedings.2291746 - Monsoon Damages in Idukki District / ഇടുക്കി ജില്ലയിലെ കാലവര്‍ഷക്കെടുതി
+Morning - onemondaymorning0000burk - ONE MONDAY MORNING
+Morning - bwb_Y0-BGI-661 - Mr. White and the Morning Star
