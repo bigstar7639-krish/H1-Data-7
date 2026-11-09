@@ -186,3 +186,7 @@ Tokyo - faunacerambycid5kish - Fauna of Cerambycidae (Insecta: Coleoptera) in Ko
 Tokyo - lonelyplanettoky00john - Tokyo condensed
 New York - bwb_S0-BOW-794 - The History of Political Parties in the Province of New York 1760-1776
 New York - consumerbankingi0000davi - Consumer Banking in New York
+Egypt - bwb_S0-AST-144 - accurate from the history of egypt
+Egypt - pubmed-PMC3132902 - ASSOCIATION OF CYTOKINE GENE POLYMORPHISMS WITH PSORIASIS IN CASES FROM THE NILE DELTA OF EGYPT.
+Pyramids - TheFourthDynastyPyramidsWhyTheyAreWhereTheyAre - The Fourth Dynasty Pyramids Why They Are Where They Are
+Pyramids - WCWdb_32014 - Giza pyramids.
