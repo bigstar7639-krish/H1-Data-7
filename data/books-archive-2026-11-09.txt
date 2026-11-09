@@ -215,3 +215,6 @@ Heart - bwb_S0-BGQ-072 - The Fragrance of the Heart
 Future - bwb_W9-BBK-047 - the future of the research library
 Future - probablefuture0000hoff_e6y1 - The probable future
 Freedom - bwb_S0-BGT-064 - freedom in the modern world
+Freedom - bwb_S0-BOW-795 - Freedom and the Court Civil Rights and Liberties in the United States
+Hope - chidrentheirtrai0000vari - chidren : their training and their hope
+Hope - isbn_9781942306184 - Mending Tomorrow: Choosing Hope, Finding Wholeness
