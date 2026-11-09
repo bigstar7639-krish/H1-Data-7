@@ -124,3 +124,7 @@ Chocolate - isbn_9781419644627 - The Adventures of Fudgie the Chocolate Labrador
 Chocolate - fudge-making-kit-dark-orange-chocolate-case-of-12 - Fudge Making Kit Dark Orange Chocolate Case Of 12
 Fruit - diseasesoffruitt0000vari - diseases of fruit trees
 Fruit - diseasesinsectsm0000gcch - Diseases Insects and Mites of Stone Fruit
+Vegetable - gov.uscourts.nyed.349334 - Lerner v. Rossman Fruit & Vegetable Dist. Inc.
+Vegetable - gov.uscourts.nysd.363945 - Altamar v. 1411-6 Fruit & Vegetable Corp.
+Summer - bwb_KV-620-365 - Summer Storm
+Summer - PulsarTop10Summer2014 - Pulsar Top 10 Summer 2014
