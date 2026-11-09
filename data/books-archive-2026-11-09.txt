@@ -202,3 +202,6 @@ Economics - economicsofmoney0000unse_d8x6 - The Economics of Money
 Economics - economicsofnatio0000harr - The Economics Of National Security (Emergency Economic Stabilization)
 Politics - internationalpol0000unse_r7c8 - International Politics in the Atomic Age
 Politics - liberaltempering0000eric - the liberal temper in greek politics
+Law - bwb_Y0-DCB-455_9-10 - American Law Reports: Later Case Service- Supplemental Cases Analyzed And Classified
+Law - bwb_Y0-BXJ-946 - A Bill Becomes A Law Congress Enacts Civil Rights Legislation
+Education - catholicviewpoin0000mccl_y4z5 - Catholic viewpoint on education
