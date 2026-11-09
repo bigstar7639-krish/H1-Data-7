@@ -128,3 +128,7 @@ Vegetable - gov.uscourts.nyed.349334 - Lerner v. Rossman Fruit & Vegetable Dist.
 Vegetable - gov.uscourts.nysd.363945 - Altamar v. 1411-6 Fruit & Vegetable Corp.
 Summer - bwb_KV-620-365 - Summer Storm
 Summer - PulsarTop10Summer2014 - Pulsar Top 10 Summer 2014
+Winter - bwb_S0-CDC-623_1 - A Winter in the West.
+Winter - winter_background - winter_background
+Monsoon - arxiv-1412.1041 - Influence of cosmic-ray variability on the monsoon rainfall and temperature
+Monsoon - keralalegislativeassembly.proceedings.2291746 - Monsoon Damages in Idukki District / ഇടുക്കി ജില്ലയിലെ കാലവര്‍ഷക്കെടുതി
