@@ -52,3 +52,7 @@ River - unitedstatescoas0000vari_w3g4 - United States Coast Pilot: Atlantic Coas
 River - gilariverofsouth0000edwi - The Gila, river of the Southwest (A Bison book)
 Sky - bwb_S0-BGR-072 - Get Out Of My Sky
 Sky - SkyCity_201702 - Sky City
+Star - bwb_S0-CJW-495 - Sunset and Evening Star
+Star - bwb_S0-BMA-997 - Five-Star favorites; recipes from friends of mamie and ike
+Moon - moononruins0000brad - Moon on the ruins
+Moon - silverapplesofmo0000wand_a5b6 - Silver Apples of the Moon
