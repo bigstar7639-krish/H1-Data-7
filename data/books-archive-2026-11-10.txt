@@ -176,3 +176,7 @@ Flight - bwb_C0-AQJ-013 - flight maneuvers complete programmed course
 Flight - bwb_W9-BGH-193 - Training to fly military flight training 1907-1945
 Phone - isometric-gradient-3d-mobile-phone-background - isometric-gradient-3d-mobile-phone-background
 Phone - PhoneDoctor_20170313 - Phone Doctor
+Computer - bestofcomputerfa0003jimw - The Best of the Computer Faires volume III
+Computer - developmentofcom0000john - Development Of Computer Supplements To Calculus
+Book - truebookofmaps0000unse - the true book of maps
+Book - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource Book for K-12 Teachers, Second Edition
