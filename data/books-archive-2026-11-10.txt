@@ -149,3 +149,6 @@ Delhi - bwb_T5-ASR-238 - The New Delhi Report
 Mumbai - pubmed-PMC3148620 - Chlorine leak on Mumbai Port Trust's Sewri yard: A case study.
 Mumbai - cbfc-ecinepramaan-100020292200000592 - LUNG CANCER AWARENESS DR. SH ADVANI MUMBAI
 London - londonchurchesat0000hbwa - London Churches at the reformation; with an account of their contents
+London - bwb_S0-BQG-892 - The Best Short Stories of Jack London
+Paris - bwb_T5-CWR-045 - Six Summers in Paris 1789-1794
+Paris - bwb_W9-CUE-201 - Une Americaine A Paris
