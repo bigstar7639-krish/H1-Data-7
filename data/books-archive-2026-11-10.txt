@@ -180,3 +180,7 @@ Computer - bestofcomputerfa0003jimw - The Best of the Computer Faires volume III
 Computer - developmentofcom0000john - Development Of Computer Supplements To Calculus
 Book - truebookofmaps0000unse - the true book of maps
 Book - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource Book for K-12 Teachers, Second Edition
+Kavithai - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum
+Kavithai - shodhganga-tamil-10603-292292 - Inraya Kavithai Ilakkiyangalin Varaverppum Vazhum
+Thirukkural - TNLA-DB-7-1984-8-63-1-QH5_1984-03-23 - Thirukkural Research Laboratory at Valluvar Kottam
+Thirukkural - acc.-no.-15807-thirukkural-couplets-2000 - THIRUKKURAL COUPLETS WITH CLEAR PROSE RENDERING (In English)
