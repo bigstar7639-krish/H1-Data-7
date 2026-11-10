@@ -232,3 +232,7 @@ Sea - bwb_T5-ARI-200 - We Didnt mean to go to sea
 Sea - bwb_Y0-DTD-032 - By The Ionian Sea
 Mountain - bwb_S0-DZK-216 - Mountain Village
 Mountain - mountainmadness0000wini_s7s5 - mountain madness
+River - unitedstatescoas0000vari_w3g4 - United States Coast Pilot: Atlantic Coast: SEction A St. Croix River to Cape Cod
+River - gilariverofsouth0000edwi - The Gila, river of the Southwest (A Bison book)
+Sky - bwb_S0-BGR-072 - Get Out Of My Sky
+Sky - bwb_C0-CEH-108 - Flames in the Sky
