@@ -68,3 +68,7 @@ Teacher - bwb_Y0-ECX-828 - The 1975 Metro Toronto Teacher-Board Negotiations and
 Teacher - improvingteacher0000unse_z1v1 - Improving teacher education practices through self-study
 Student - isbn_9781572592469 - Student Solutions Manual to Accompany College Algebra
 Student - stickyassessment0000gree - Sticky assessment : classroom strategies to amplify student learning
+Business - bwb_O6-BGC-949 - IEEE Engineers Guide to Business: Writing for Carreer Growth
+Business - bwb_KV-478-708 - Ships Business
+Money - howtoincreaseyou0000john_v0r0 - How to Increase Your Money-Making Power
+Money - chineseearlybart00rams - Chinese Early Barter and Uninscribed Money
