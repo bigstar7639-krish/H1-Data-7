@@ -81,3 +81,6 @@ Fashion - Unsplash - https://source.unsplash.com/800x600/?fashion%20shopping
 Fashion - Wikimedia - https://commons.wikimedia.org/wiki/File:Beecham's_music_portfolio_(IA_b33430238).pdf
 Fashion - Openverse - https://www.flickr.com/photos/22141297@N06/5038027456
 Fashion - Openverse - https://www.flickr.com/photos/146501333@N07/25281512247
+Fashion - Openverse - https://www.flickr.com/photos/35187824@N00/305484965
+Fashion - Openverse - https://www.flickr.com/photos/64239811@N03/8393761869
+Fashion - Wikimedia - https://commons.wikimedia.org/wiki/File:Pioneer_life_in_Iowa_-_early_sketches_of_Polk_county,_from_1842_to_1860_(IA_pioneerlifeiniow00sanf).pdf
