@@ -41,3 +41,6 @@ Sport - Unsplash - https://source.unsplash.com/800x600/?sports%20training
 Sport - Openverse - https://www.flickr.com/photos/81265351@N00/3300003436
 Sport - Openverse - https://www.flickr.com/photos/28633558@N06/15996462891
 Sport - Wikimedia - https://commons.wikimedia.org/w/index.php?curid=90971148
+Sport - Openverse - https://www.flickr.com/photos/93592003@N04/31115401891
+Sport - Openverse - https://www.flickr.com/photos/45796762@N03/4992514641
+Sport - Openverse - https://www.flickr.com/photos/56192190@N05/5203687912
