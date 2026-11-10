@@ -158,3 +158,9 @@ New York - bwb_Y0-DCL-531 - The New York Times COOK BOOK
 New York - guidetoprincipal0000unse_m5l6 - A guide to the principal sources for early american history (1600-1800) in the city of new york
 Egypt - josephinegypt0000thom_v5y8 - Joseph in Egypt
 Egypt - bwb_S0-AWS-054 - A Passage to Egypt : The Life of Lucie Duff Gordon
+Horse - myhorsesays0000unse_t0k6 - my horse says
+Horse - bwb_T5-CWP-283 - stand to horse
+Bike - bwb_S0-BCA-106 - Hit the Bike Trail
+Bike - isbn_9780948153747 - Mountain Bike Guide
+Car - fastcar0000murp - Fast car
+Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Application_Bulletin
