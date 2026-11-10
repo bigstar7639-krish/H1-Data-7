@@ -280,3 +280,7 @@ Science - wonderworldofsci0000warr_n9y3 - THE WONDERWORLD OF SCIENCE
 Science - isbn_9781607515418 - Human: The Science Behind What Makes Us Unique
 History - historyofmethodi0002wade - History of Methodist Missions; Early American Methodism
 History - churchmusicinhis0000winf_z3f4 - Church Music in History and Practice
+Culture - bppr-3-1380 - Cell culture and transfection
+Culture - bppr-3-1734 - Cell culture, RNAi experiments, and adenoviral infection
+Festival - CdFestivalBrasilSertanejo - Cd Festival Brasil Sertanejo
+Festival - bwb_Y0-BUX-774 - By the Sea A History of the Capitola Begonia Festival
