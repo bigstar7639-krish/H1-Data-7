@@ -170,3 +170,7 @@ Tiger - bwb_S0-DFZ-229 - The night of the tiger
 Tiger - bwb_W9-CRI-316_b0p2 - The Elephant and the Tiger
 Lion - bwb_S0-EKQ-267_13 - Funk & Wagnalls Standard Reference Encyclopedia Henry The Lion - Insanity
 Lion - LeGrandMasqueJuifOuLneDansLaPeauDuLion193649p - Le Grand Masque Juif Ou L'âne Dans La Peau Du Lion 1936 ( 49p)
+Train - bwb_T4-APT-839 - How to raise and train a lhasa apso
+Train - TrainShow2006 - DRP Train Parade 2006
+Flight - bwb_C0-AQJ-013 - flight maneuvers complete programmed course
+Flight - bwb_W9-BGH-193 - Training to fly military flight training 1907-1945
