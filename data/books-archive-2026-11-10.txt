@@ -253,3 +253,4 @@ Teacher - improvingteacher0000unse_z1v1 - Improving teacher education practices 
 Student - isbn_9781572592469 - Student Solutions Manual to Accompany College Algebra
 Student - bwb_S0-DNM-028 - High school student book
 Business - georgeiiimadbusi0000idam - George III and the Mad-Business,
+Business - futureoforganiza0000coli - The Future of the Organization: Achieving Excellence Through Business Transformation
