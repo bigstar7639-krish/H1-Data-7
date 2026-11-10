@@ -244,3 +244,5 @@ Sun - 2024-02-08-0022 - Quincy Sun Feb 08 2024
 Sun - bwb_S0-EKW-675 - run way to the sun
 Bird - bwb_S0-EKS-952 - The bird biographies of John James Audubon
 Bird - birdmalaria0000unse - Bird Malaria
+Animal - im-an-animal_202201 - Im An Animal
+Animal - animalkingdom0000rene - The Animal Kingdom
